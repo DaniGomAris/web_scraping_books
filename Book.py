@@ -1,9 +1,12 @@
 class Book:
-    def __init__(self, title, writer, price, writer, pages, gender, published, gender):
+    """
+    Clase para crear libros
+    """
+    def __init__(self, title, writer, price, writer, pages, published, gender):
         self.title = title
         self.writer = writer
+        self.published = published
         self.price = price
         self.value = value
         self.pages = pages
-        self.gender = gender
-        self.published = published
+        self.gender = None
