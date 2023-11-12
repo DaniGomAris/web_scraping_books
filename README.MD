@@ -27,19 +27,12 @@ Diseñarán e implementarán un grafo para representar el conocimiento del top 3
 * Una recomendación
   *Cuando validen el scraping y sepan que ya tienen toda la información bien, la pueden guardar en un archivo y seguir cargando desde allí para sus pruebas para que no les toque hacer todo ese proceso cada vez que corran el programa.
 
-
-### Entrega y sustentación
-* Puede realizar la práctica de manera individual o en parejas
-* La entrega y sustentación será práctica e individual
-  * La fecha, será entre el 22 y 24 de noviembre (por definir)
-  * Recuerden que quien haga el parcial, lo hará en la fecha estipulada por la facultad. 
 * Para la sustentación:
   * Traigan una imagen con la representación básica del grafo y la matriz o lista de adyacencia (ver anexo para ejemplo). Esto lo pueden hacer en diversas páginas online como grapheditor o graphonline, entre otras.
   * En la sustentación deberán justificar el diseño escogido y explicar cómo les aporta a la solución de las preguntas.
   * Plantearán, durante la sustentación, cómo abordarían una funcionalidad nueva que les plantearé. 
     * Esto será hablado, desde la lógica que implementaron.
 * Implementación (30%) - Sustentación (70%)
-
 
 
 ## Anexo: ejemplo de representación de grafo usando información de IMDB (práctica semestre pasado)
