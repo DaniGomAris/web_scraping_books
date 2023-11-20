@@ -7,11 +7,9 @@
         "valuation": 4.26,
         "pages": 323,
         "link": "https://www.goodreads.com//book/show/2657.To_Kill_a_Mockingbird",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Harry Potter and the Philosopher’s Stone",
@@ -21,11 +19,9 @@
         "valuation": 4.47,
         "pages": 223,
         "link": "https://www.goodreads.com//book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone",
-        "genders": [
-            "Fiction",
-            "Young Adult",
-            "Magic"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Young Adult",
+        "gender3": "Magic"
     },
     {
         "title": "Pride and Prejudice",
@@ -35,11 +31,9 @@
         "valuation": 4.28,
         "pages": 279,
         "link": "https://www.goodreads.com//book/show/1885.Pride_and_Prejudice",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Romance"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Romance"
     },
     {
         "title": "The Diary of a Young Girl",
@@ -49,11 +43,9 @@
         "valuation": 4.19,
         "pages": 283,
         "link": "https://www.goodreads.com//book/show/48855.The_Diary_of_a_Young_Girl",
-        "genders": [
-            "Classics",
-            "Nonfiction",
-            "Biography"
-        ]
+        "gender1": "Classics",
+        "gender2": "Nonfiction",
+        "gender3": "Biography"
     },
     {
         "title": "Animal Farm",
@@ -63,25 +55,21 @@
         "valuation": 3.98,
         "pages": 128,
         "link": "https://www.goodreads.com//book/show/170448.Animal_Farm",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Dystopia"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Dystopia"
     },
     {
         "title": "The Little Prince",
         "author": "Antoine de Saint-Exupéry",
         "published": "April 6, 1943",
-        "price": 1.8,
+        "price": 2.99,
         "valuation": 4.32,
         "pages": 96,
         "link": "https://www.goodreads.com//book/show/157993.The_Little_Prince",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Fantasy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Fantasy"
     },
     {
         "title": "1984",
@@ -91,11 +79,9 @@
         "valuation": 4.19,
         "pages": 368,
         "link": "https://www.goodreads.com//book/show/61439040-1984",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Science Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Science Fiction"
     },
     {
         "title": "The Great Gatsby",
@@ -105,11 +91,9 @@
         "valuation": 3.93,
         "pages": 180,
         "link": "https://www.goodreads.com//book/show/4671.The_Great_Gatsby",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "School"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "School"
     },
     {
         "title": "The Catcher in the Rye",
@@ -119,11 +103,9 @@
         "valuation": 3.8,
         "pages": 234,
         "link": "https://www.goodreads.com//book/show/5107.The_Catcher_in_the_Rye",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "The Lord of the Rings",
@@ -133,11 +115,9 @@
         "valuation": 4.52,
         "pages": 1216,
         "link": "https://www.goodreads.com//book/show/33.The_Lord_of_the_Rings",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "The Book Thief",
@@ -147,25 +127,21 @@
         "valuation": 4.39,
         "pages": 592,
         "link": "https://www.goodreads.com//book/show/19063.The_Book_Thief",
-        "genders": [
-            "Historical Fiction",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "Jane Eyre",
         "author": "Charlotte Brontë",
         "published": "October 16, 1847",
-        "price": 0.99,
+        "price": 3.53,
         "valuation": 4.15,
         "pages": 532,
         "link": "https://www.goodreads.com//book/show/10210.Jane_Eyre",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Romance"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Romance"
     },
     {
         "title": "The Chronicles of Narnia",
@@ -175,11 +151,9 @@
         "valuation": 4.27,
         "pages": 767,
         "link": "https://www.goodreads.com//book/show/11127.The_Chronicles_of_Narnia",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "Lord of the Flies",
@@ -189,11 +163,9 @@
         "valuation": 3.69,
         "pages": 182,
         "link": "https://www.goodreads.com//book/show/7624.Lord_of_the_Flies",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "Romeo and Juliet",
@@ -203,11 +175,9 @@
         "valuation": 3.74,
         "pages": 281,
         "link": "https://www.goodreads.com//book/show/18135.Romeo_and_Juliet",
-        "genders": [
-            "Classics",
-            "Plays",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Plays",
+        "gender3": "Fiction"
     },
     {
         "title": "Harry Potter and the Deathly Hallows",
@@ -217,11 +187,9 @@
         "valuation": 4.62,
         "pages": 759,
         "link": "https://www.goodreads.com//book/show/136251.Harry_Potter_and_the_Deathly_Hallows",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Magic"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Magic"
     },
     {
         "title": "The Kite Runner",
@@ -231,11 +199,9 @@
         "valuation": 4.34,
         "pages": 371,
         "link": "https://www.goodreads.com//book/show/77203.The_Kite_Runner",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Giver",
@@ -245,11 +211,9 @@
         "valuation": 4.12,
         "pages": 208,
         "link": "https://www.goodreads.com//book/show/3636.The_Giver",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Giving Tree",
@@ -259,11 +223,9 @@
         "valuation": 4.38,
         "pages": 64,
         "link": "https://www.goodreads.com//book/show/370493.The_Giving_Tree",
-        "genders": [
-            "Childrens",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "Charlotte's Web",
@@ -273,11 +235,9 @@
         "valuation": 4.2,
         "pages": 184,
         "link": "https://www.goodreads.com//book/show/24178.Charlotte_s_Web",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Childrens"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Childrens"
     },
     {
         "title": "Little Women",
@@ -287,11 +247,9 @@
         "valuation": 4.14,
         "pages": 449,
         "link": "https://www.goodreads.com//book/show/1934.Little_Women",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Hunger Games",
@@ -301,11 +259,9 @@
         "valuation": 4.33,
         "pages": 374,
         "link": "https://www.goodreads.com//book/show/2767052-the-hunger-games",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Fantasy"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Fantasy"
     },
     {
         "title": "The Hobbit",
@@ -315,11 +271,9 @@
         "valuation": 4.28,
         "pages": 366,
         "link": "https://www.goodreads.com//book/show/5907.The_Hobbit",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "Of Mice and Men",
@@ -329,11 +283,9 @@
         "valuation": 3.88,
         "pages": 107,
         "link": "https://www.goodreads.com//book/show/890.Of_Mice_and_Men",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "School"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "School"
     },
     {
         "title": "Fahrenheit 451",
@@ -343,11 +295,9 @@
         "valuation": 3.97,
         "pages": 194,
         "link": "https://www.goodreads.com//book/show/13079982-fahrenheit-451",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Science Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Science Fiction"
     },
     {
         "title": "Green Eggs and Ham",
@@ -357,11 +307,9 @@
         "valuation": 4.31,
         "pages": 64,
         "link": "https://www.goodreads.com//book/show/23772.Green_Eggs_and_Ham",
-        "genders": [
-            "Childrens",
-            "Picture Books",
-            "Classics"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Picture Books",
+        "gender3": "Classics"
     },
     {
         "title": "Harry Potter and the Prisoner of Azkaban",
@@ -371,25 +319,21 @@
         "valuation": 4.58,
         "pages": 435,
         "link": "https://www.goodreads.com//book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban",
-        "genders": [
-            "Young Adult",
-            "Childrens",
-            "Middle Grade"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Childrens",
+        "gender3": "Middle Grade"
     },
     {
         "title": "Wuthering Heights",
         "author": "Emily Brontë",
         "published": "December 1, 1847",
         "price": 3.22,
-        "valuation": 3.88,
+        "valuation": 3.89,
         "pages": 464,
         "link": "https://www.goodreads.com//book/show/6185.Wuthering_Heights",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Romance"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Romance"
     },
     {
         "title": "Alice's Adventures in Wonderland / Through the Looking-Glass",
@@ -399,11 +343,9 @@
         "valuation": 4.06,
         "pages": 239,
         "link": "https://www.goodreads.com//book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Picture of Dorian Gray",
@@ -413,11 +355,9 @@
         "valuation": 4.12,
         "pages": 272,
         "link": "https://www.goodreads.com//book/show/5297.The_Picture_of_Dorian_Gray",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Horror"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Horror"
     },
     {
         "title": "Night",
@@ -427,11 +367,9 @@
         "valuation": 4.37,
         "pages": 115,
         "link": "https://www.goodreads.com//book/show/1617.Night",
-        "genders": [
-            "Nonfiction",
-            "Classics",
-            "History"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Classics",
+        "gender3": "History"
     },
     {
         "title": "Gone with the Wind",
@@ -441,11 +379,9 @@
         "valuation": 4.31,
         "pages": 1037,
         "link": "https://www.goodreads.com//book/show/18405.Gone_with_the_Wind",
-        "genders": [
-            "Classics",
-            "Historical Fiction",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Historical Fiction",
+        "gender3": "Fiction"
     },
     {
         "title": "The Holy Bible: King James Version",
@@ -455,11 +391,9 @@
         "valuation": 4.43,
         "pages": 1590,
         "link": "https://www.goodreads.com//book/show/1923820.The_Holy_Bible",
-        "genders": [
-            "Religion",
-            "Nonfiction",
-            "Christian"
-        ]
+        "gender1": "Religion",
+        "gender2": "Nonfiction",
+        "gender3": "Christian"
     },
     {
         "title": "Harry Potter and the Goblet of Fire",
@@ -469,11 +403,9 @@
         "valuation": 4.56,
         "pages": 734,
         "link": "https://www.goodreads.com//book/show/6.Harry_Potter_and_the_Goblet_of_Fire",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Magic"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Magic"
     },
     {
         "title": "The Hitchhiker's Guide to the Galaxy",
@@ -483,11 +415,9 @@
         "valuation": 4.23,
         "pages": 193,
         "link": "https://www.goodreads.com//book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy",
-        "genders": [
-            "Science Fiction",
-            "Fiction",
-            "Humor"
-        ]
+        "gender1": "Science Fiction",
+        "gender2": "Fiction",
+        "gender3": "Humor"
     },
     {
         "title": "Hamlet",
@@ -497,11 +427,9 @@
         "valuation": 4.02,
         "pages": 289,
         "link": "https://www.goodreads.com//book/show/1420.Hamlet",
-        "genders": [
-            "Classics",
-            "Plays",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Plays",
+        "gender3": "Fiction"
     },
     {
         "title": "Harry Potter and the Half-Blood Prince",
@@ -511,11 +439,9 @@
         "valuation": 4.58,
         "pages": 652,
         "link": "https://www.goodreads.com//book/show/1.Harry_Potter_and_the_Half_Blood_Prince",
-        "genders": [
-            "Fantasy",
-            "Young Adult",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Young Adult",
+        "gender3": "Fiction"
     },
     {
         "title": "The Adventures of Huckleberry Finn",
@@ -525,11 +451,9 @@
         "valuation": 3.83,
         "pages": 327,
         "link": "https://www.goodreads.com//book/show/2956.The_Adventures_of_Huckleberry_Finn",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Tolkien On Fairy-stories",
@@ -539,25 +463,21 @@
         "valuation": 4.32,
         "pages": 320,
         "link": "https://www.goodreads.com//book/show/1362112.Tolkien_On_Fairy_stories",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Essays"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Essays"
     },
     {
         "title": "Les Misérables",
         "author": "Victor Hugo",
         "published": "January 1, 1862",
-        "price": 7.99,
+        "price": 9.99,
         "valuation": 4.2,
         "pages": 1463,
         "link": "https://www.goodreads.com//book/show/24280.Les_Mis_rables",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Alchemist",
@@ -567,25 +487,21 @@
         "valuation": 3.9,
         "pages": 182,
         "link": "https://www.goodreads.com//book/show/18144590-the-alchemist",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Fantasy"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Fantasy"
     },
     {
         "title": "Brave New World / Brave New World Revisited",
         "author": "Aldous Huxley",
         "published": "January 1, 1958",
-        "price": 3.99,
+        "price": 14.24,
         "valuation": 4.16,
         "pages": 340,
         "link": "https://www.goodreads.com//book/show/5479.Brave_New_World_Brave_New_World_Revisited",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Science Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Science Fiction"
     },
     {
         "title": "Crime and Punishment",
@@ -595,11 +511,9 @@
         "valuation": 4.26,
         "pages": 671,
         "link": "https://www.goodreads.com//book/show/7144.Crime_and_Punishment",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Russia"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Russia"
     },
     {
         "title": "The Help",
@@ -609,11 +523,9 @@
         "valuation": 4.47,
         "pages": 464,
         "link": "https://www.goodreads.com//book/show/4667024-the-help",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Historical"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Historical"
     },
     {
         "title": "The Secret Garden",
@@ -623,11 +535,9 @@
         "valuation": 4.15,
         "pages": 331,
         "link": "https://www.goodreads.com//book/show/2998.The_Secret_Garden",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Childrens"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Childrens"
     },
     {
         "title": "Memoirs of a Geisha",
@@ -637,11 +547,9 @@
         "valuation": 4.15,
         "pages": 503,
         "link": "https://www.goodreads.com//book/show/929.Memoirs_of_a_Geisha",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Romance"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Romance"
     },
     {
         "title": "The Lion, the Witch and the Wardrobe",
@@ -651,11 +559,9 @@
         "valuation": 4.23,
         "pages": 206,
         "link": "https://www.goodreads.com//book/show/100915.The_Lion_the_Witch_and_the_Wardrobe",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "The Odyssey",
@@ -665,11 +571,9 @@
         "valuation": 3.8,
         "pages": 541,
         "link": "https://www.goodreads.com//book/show/1381.The_Odyssey",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Poetry"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Poetry"
     },
     {
         "title": "A Christmas Carol",
@@ -679,11 +583,9 @@
         "valuation": 4.07,
         "pages": 184,
         "link": "https://www.goodreads.com//book/show/5326.A_Christmas_Carol",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Christmas"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Christmas"
     },
     {
         "title": "The Cat in the Hat",
@@ -693,11 +595,9 @@
         "valuation": 4.18,
         "pages": 61,
         "link": "https://www.goodreads.com//book/show/233093.The_Cat_in_the_Hat",
-        "genders": [
-            "Childrens",
-            "Picture Books",
-            "Classics"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Picture Books",
+        "gender3": "Classics"
     },
     {
         "title": "The Outsiders",
@@ -707,11 +607,9 @@
         "valuation": 4.12,
         "pages": 192,
         "link": "https://www.goodreads.com//book/show/231804.The_Outsiders",
-        "genders": [
-            "Classics",
-            "Young Adult",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Young Adult",
+        "gender3": "Fiction"
     },
     {
         "title": "One Hundred Years of Solitude",
@@ -721,11 +619,9 @@
         "valuation": 4.11,
         "pages": 417,
         "link": "https://www.goodreads.com//book/show/320.One_Hundred_Years_of_Solitude",
-        "genders": [
-            "Fiction",
-            "Magical Realism",
-            "Literature"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Magical Realism",
+        "gender3": "Literature"
     },
     {
         "title": "A Thousand Splendid Suns",
@@ -735,11 +631,9 @@
         "valuation": 4.43,
         "pages": 372,
         "link": "https://www.goodreads.com//book/show/128029.A_Thousand_Splendid_Suns",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Contemporary"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Contemporary"
     },
     {
         "title": "The Grapes of Wrath",
@@ -749,11 +643,9 @@
         "valuation": 4.0,
         "pages": 479,
         "link": "https://www.goodreads.com//book/show/18114322-the-grapes-of-wrath",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Anne of Green Gables",
@@ -763,11 +655,9 @@
         "valuation": 4.3,
         "pages": 320,
         "link": "https://www.goodreads.com//book/show/8127.Anne_of_Green_Gables",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "Where the Sidewalk Ends",
@@ -777,11 +667,9 @@
         "valuation": 4.33,
         "pages": 176,
         "link": "https://www.goodreads.com//book/show/30119.Where_the_Sidewalk_Ends",
-        "genders": [
-            "Poetry",
-            "Childrens",
-            "Classics"
-        ]
+        "gender1": "Poetry",
+        "gender2": "Childrens",
+        "gender3": "Classics"
     },
     {
         "title": "The Count of Monte Cristo",
@@ -791,11 +679,9 @@
         "valuation": 4.29,
         "pages": 1276,
         "link": "https://www.goodreads.com//book/show/7126.The_Count_of_Monte_Cristo",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Ender’s Game",
@@ -805,11 +691,9 @@
         "valuation": 4.31,
         "pages": 324,
         "link": "https://www.goodreads.com//book/show/375802.Ender_s_Game",
-        "genders": [
-            "Science Fiction",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Science Fiction",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "Where the Wild Things Are",
@@ -819,11 +703,9 @@
         "valuation": 4.24,
         "pages": 38,
         "link": "https://www.goodreads.com//book/show/19543.Where_the_Wild_Things_Are",
-        "genders": [
-            "Childrens",
-            "Picture Books",
-            "Fiction"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Picture Books",
+        "gender3": "Fiction"
     },
     {
         "title": "The Color Purple",
@@ -833,11 +715,9 @@
         "valuation": 4.26,
         "pages": 304,
         "link": "https://www.goodreads.com//book/show/52892857-the-color-purple",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Feminism"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Feminism"
     },
     {
         "title": "The Adventures of Tom Sawyer",
@@ -847,11 +727,9 @@
         "valuation": 3.92,
         "pages": 244,
         "link": "https://www.goodreads.com//book/show/24583.The_Adventures_of_Tom_Sawyer",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Adventure"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Adventure"
     },
     {
         "title": "A Tale of Two Cities",
@@ -861,11 +739,9 @@
         "valuation": 3.87,
         "pages": 489,
         "link": "https://www.goodreads.com//book/show/1953.A_Tale_of_Two_Cities",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Life of Pi",
@@ -875,11 +751,9 @@
         "valuation": 3.93,
         "pages": 460,
         "link": "https://www.goodreads.com//book/show/4214.Life_of_Pi",
-        "genders": [
-            "Fiction",
-            "Fantasy",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Fantasy",
+        "gender3": "Classics"
     },
     {
         "title": "The Handmaid’s Tale",
@@ -889,11 +763,9 @@
         "valuation": 4.13,
         "pages": 314,
         "link": "https://www.goodreads.com//book/show/38447.The_Handmaid_s_Tale",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Dystopia"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Dystopia"
     },
     {
         "title": "One Flew Over the Cuckoo's Nest",
@@ -903,11 +775,9 @@
         "valuation": 4.2,
         "pages": 325,
         "link": "https://www.goodreads.com//book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Psychology"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Psychology"
     },
     {
         "title": "Frankenstein: The 1818 Text",
@@ -917,11 +787,9 @@
         "valuation": 3.86,
         "pages": 260,
         "link": "https://www.goodreads.com//book/show/35031085-frankenstein",
-        "genders": [
-            "Classics",
-            "Horror",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Horror",
+        "gender3": "Fiction"
     },
     {
         "title": "Oh, the Places You'll Go!",
@@ -931,11 +799,9 @@
         "valuation": 4.36,
         "pages": 44,
         "link": "https://www.goodreads.com//book/show/191139.Oh_the_Places_You_ll_Go_",
-        "genders": [
-            "Childrens",
-            "Picture Books",
-            "Fiction"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Picture Books",
+        "gender3": "Fiction"
     },
     {
         "title": "Anna Karenina",
@@ -945,11 +811,9 @@
         "valuation": 4.09,
         "pages": 964,
         "link": "https://www.goodreads.com//book/show/15823480-anna-karenina",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Romance"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Romance"
     },
     {
         "title": "Tuesdays with Morrie",
@@ -959,11 +823,9 @@
         "valuation": 4.16,
         "pages": 210,
         "link": "https://www.goodreads.com//book/show/6900.Tuesdays_with_Morrie",
-        "genders": [
-            "Nonfiction",
-            "Memoir",
-            "Biography"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Memoir",
+        "gender3": "Biography"
     },
     {
         "title": "Winnie-the-Pooh",
@@ -973,11 +835,9 @@
         "valuation": 4.35,
         "pages": 161,
         "link": "https://www.goodreads.com//book/show/99107.Winnie_the_Pooh",
-        "genders": [
-            "Childrens",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "Slaughterhouse-Five",
@@ -987,11 +847,9 @@
         "valuation": 4.09,
         "pages": 275,
         "link": "https://www.goodreads.com//book/show/4981.Slaughterhouse_Five",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Science Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Science Fiction"
     },
     {
         "title": "The Old Man and the Sea",
@@ -1001,11 +859,9 @@
         "valuation": 3.8,
         "pages": 96,
         "link": "https://www.goodreads.com//book/show/2165.The_Old_Man_and_the_Sea",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "Catch-22",
@@ -1015,11 +871,9 @@
         "valuation": 3.99,
         "pages": 453,
         "link": "https://www.goodreads.com//book/show/168668.Catch_22",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Scarlet Letter",
@@ -1029,11 +883,9 @@
         "valuation": 3.43,
         "pages": 279,
         "link": "https://www.goodreads.com//book/show/12296.The_Scarlet_Letter",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Macbeth",
@@ -1043,11 +895,9 @@
         "valuation": 3.9,
         "pages": 249,
         "link": "https://www.goodreads.com//book/show/8852.Macbeth",
-        "genders": [
-            "Classics",
-            "Plays",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Plays",
+        "gender3": "Fiction"
     },
     {
         "title": "The Fellowship of the Ring",
@@ -1057,11 +907,9 @@
         "valuation": 4.39,
         "pages": 398,
         "link": "https://www.goodreads.com//book/show/34.The_Fellowship_of_the_Ring",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "Twilight",
@@ -1071,11 +919,9 @@
         "valuation": 3.64,
         "pages": 498,
         "link": "https://www.goodreads.com//book/show/41865.Twilight",
-        "genders": [
-            "Fantasy",
-            "Young Adult",
-            "Romance"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Young Adult",
+        "gender3": "Romance"
     },
     {
         "title": "Lolita",
@@ -1085,11 +931,9 @@
         "valuation": 3.88,
         "pages": 368,
         "link": "https://www.goodreads.com//book/show/7604.Lolita",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "The Metamorphosis",
@@ -1099,11 +943,9 @@
         "valuation": 3.85,
         "pages": 201,
         "link": "https://www.goodreads.com//book/show/485894.The_Metamorphosis",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Fantasy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Fantasy"
     },
     {
         "title": "The Stranger",
@@ -1113,11 +955,9 @@
         "valuation": 4.02,
         "pages": 159,
         "link": "https://www.goodreads.com//book/show/49552.The_Stranger",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Philosophy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Philosophy"
     },
     {
         "title": "Siddhartha",
@@ -1127,11 +967,9 @@
         "valuation": 4.06,
         "pages": 152,
         "link": "https://www.goodreads.com//book/show/52036.Siddhartha",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Philosophy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Philosophy"
     },
     {
         "title": "The Time Traveler's Wife",
@@ -1141,11 +979,9 @@
         "valuation": 3.99,
         "pages": 537,
         "link": "https://www.goodreads.com//book/show/18619684-the-time-traveler-s-wife",
-        "genders": [
-            "Fiction",
-            "Romance",
-            "Fantasy"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Romance",
+        "gender3": "Fantasy"
     },
     {
         "title": "Goodnight Moon",
@@ -1155,11 +991,9 @@
         "valuation": 4.3,
         "pages": 32,
         "link": "https://www.goodreads.com//book/show/32929.Goodnight_Moon",
-        "genders": [
-            "Childrens",
-            "Picture Books",
-            "Classics"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Picture Books",
+        "gender3": "Classics"
     },
     {
         "title": "Harry Potter and the Chamber of Secrets",
@@ -1169,11 +1003,9 @@
         "valuation": 4.43,
         "pages": 341,
         "link": "https://www.goodreads.com//book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "War and Peace",
@@ -1183,11 +1015,9 @@
         "valuation": 4.16,
         "pages": 1392,
         "link": "https://www.goodreads.com//book/show/656.War_and_Peace",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "A Tree Grows in Brooklyn",
@@ -1197,11 +1027,9 @@
         "valuation": 4.29,
         "pages": 496,
         "link": "https://www.goodreads.com//book/show/14891.A_Tree_Grows_in_Brooklyn",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Little House Collection",
@@ -1211,11 +1039,9 @@
         "valuation": 4.35,
         "pages": 2700,
         "link": "https://www.goodreads.com//book/show/114345.The_Little_House_Collection",
-        "genders": [
-            "Classics",
-            "Historical Fiction",
-            "Childrens"
-        ]
+        "gender1": "Classics",
+        "gender2": "Historical Fiction",
+        "gender3": "Childrens"
     },
     {
         "title": "A Clockwork Orange",
@@ -1225,11 +1051,9 @@
         "valuation": 4.0,
         "pages": 240,
         "link": "https://www.goodreads.com//book/show/41817486-a-clockwork-orange",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Science Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Science Fiction"
     },
     {
         "title": "All Quiet on the Western Front",
@@ -1239,11 +1063,9 @@
         "valuation": 4.06,
         "pages": 296,
         "link": "https://www.goodreads.com//book/show/355697.All_Quiet_on_the_Western_Front",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Stand",
@@ -1253,11 +1075,9 @@
         "valuation": 4.35,
         "pages": 1152,
         "link": "https://www.goodreads.com//book/show/149267.The_Stand",
-        "genders": [
-            "Horror",
-            "Fiction",
-            "Fantasy"
-        ]
+        "gender1": "Horror",
+        "gender2": "Fiction",
+        "gender3": "Fantasy"
     },
     {
         "title": "Don Quixote",
@@ -1267,11 +1087,9 @@
         "valuation": 3.89,
         "pages": 1023,
         "link": "https://www.goodreads.com//book/show/3836.Don_Quixote",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "Uncle Tom's Cabin",
@@ -1281,11 +1099,9 @@
         "valuation": 3.9,
         "pages": 438,
         "link": "https://www.goodreads.com//book/show/46787.Uncle_Tom_s_Cabin",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "القرآن الكريم",
@@ -1295,11 +1111,9 @@
         "valuation": 4.38,
         "pages": 604,
         "link": "https://www.goodreads.com//book/show/646462._",
-        "genders": [
-            "Religion",
-            "Islam",
-            "Nonfiction"
-        ]
+        "gender1": "Religion",
+        "gender2": "Islam",
+        "gender3": "Nonfiction"
     },
     {
         "title": "Atlas Shrugged",
@@ -1309,11 +1123,9 @@
         "valuation": 3.69,
         "pages": 1168,
         "link": "https://www.goodreads.com//book/show/662.Atlas_Shrugged",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Philosophy"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Philosophy"
     },
     {
         "title": "The Brothers Karamazov",
@@ -1323,11 +1135,9 @@
         "valuation": 4.36,
         "pages": 796,
         "link": "https://www.goodreads.com//book/show/4934.The_Brothers_Karamazov",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Russia"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Russia"
     },
     {
         "title": "The Poisonwood Bible",
@@ -1337,25 +1147,21 @@
         "valuation": 4.09,
         "pages": 546,
         "link": "https://www.goodreads.com//book/show/7244.The_Poisonwood_Bible",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Africa"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Africa"
     },
     {
         "title": "I Know Why the Caged Bird Sings",
         "author": "Maya Angelou",
         "published": "January 1, 1969",
-        "price": 7.99,
+        "price": 4.99,
         "valuation": 4.29,
         "pages": 289,
         "link": "https://www.goodreads.com//book/show/13214.I_Know_Why_the_Caged_Bird_Sings",
-        "genders": [
-            "Nonfiction",
-            "Classics",
-            "Memoir"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Classics",
+        "gender3": "Memoir"
     },
     {
         "title": "Moby-Dick or, The Whale",
@@ -1365,11 +1171,9 @@
         "valuation": 3.54,
         "pages": 654,
         "link": "https://www.goodreads.com//book/show/153747.Moby_Dick_or_The_Whale",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "The Book of Mormon: Another Testament of Jesus Christ",
@@ -1379,11 +1183,9 @@
         "valuation": 4.25,
         "pages": 531,
         "link": "https://www.goodreads.com//book/show/323355.The_Book_of_Mormon",
-        "genders": [
-            "Religion",
-            "Nonfiction",
-            "Lds"
-        ]
+        "gender1": "Religion",
+        "gender2": "Nonfiction",
+        "gender3": "Lds"
     },
     {
         "title": "The Da Vinci Code",
@@ -1393,11 +1195,9 @@
         "valuation": 3.91,
         "pages": 489,
         "link": "https://www.goodreads.com//book/show/968.The_Da_Vinci_Code",
-        "genders": [
-            "Fiction",
-            "Mystery",
-            "Thriller"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Mystery",
+        "gender3": "Thriller"
     },
     {
         "title": "Great Expectations",
@@ -1407,11 +1207,9 @@
         "valuation": 3.79,
         "pages": 544,
         "link": "https://www.goodreads.com//book/show/2623.Great_Expectations",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "The Good Earth",
@@ -1421,11 +1219,9 @@
         "valuation": 4.0,
         "pages": 418,
         "link": "https://www.goodreads.com//book/show/1078.The_Good_Earth",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
@@ -1435,11 +1231,9 @@
         "valuation": 4.45,
         "pages": 242,
         "link": "https://www.goodreads.com//book/show/561909.The_Hiding_Place",
-        "genders": [
-            "Nonfiction",
-            "Biography",
-            "History"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Biography",
+        "gender3": "History"
     },
     {
         "title": "Dracula",
@@ -1449,11 +1243,9 @@
         "valuation": 4.01,
         "pages": 488,
         "link": "https://www.goodreads.com//book/show/17245.Dracula",
-        "genders": [
-            "Classics",
-            "Horror",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Horror",
+        "gender3": "Fiction"
     },
     {
         "title": "A Wrinkle in Time",
@@ -1463,11 +1255,9 @@
         "valuation": 3.98,
         "pages": 218,
         "link": "https://www.goodreads.com//book/show/33574273-a-wrinkle-in-time",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Fault in Our Stars",
@@ -1477,11 +1267,9 @@
         "valuation": 4.14,
         "pages": 313,
         "link": "https://www.goodreads.com//book/show/11870085-the-fault-in-our-stars",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Contemporary"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Contemporary"
     },
     {
         "title": "Matilda",
@@ -1491,11 +1279,9 @@
         "valuation": 4.33,
         "pages": 240,
         "link": "https://www.goodreads.com//book/show/39988.Matilda",
-        "genders": [
-            "Childrens",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Perks of Being a Wallflower",
@@ -1505,11 +1291,9 @@
         "valuation": 4.23,
         "pages": 213,
         "link": "https://www.goodreads.com//book/show/22628.The_Perks_of_Being_a_Wallflower",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Coming Of Age"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Coming Of Age"
     },
     {
         "title": "Brave New World",
@@ -1519,11 +1303,9 @@
         "valuation": 3.99,
         "pages": 268,
         "link": "https://www.goodreads.com//book/show/5129.Brave_New_World",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Science Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Science Fiction"
     },
     {
         "title": "Sense and Sensibility",
@@ -1533,11 +1315,9 @@
         "valuation": 4.08,
         "pages": 409,
         "link": "https://www.goodreads.com//book/show/14935.Sense_and_Sensibility",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Princess Bride",
@@ -1547,11 +1327,9 @@
         "valuation": 4.27,
         "pages": 429,
         "link": "https://www.goodreads.com//book/show/21787.The_Princess_Bride",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "The Iliad",
@@ -1561,11 +1339,9 @@
         "valuation": 3.9,
         "pages": 704,
         "link": "https://www.goodreads.com//book/show/1371.The_Iliad",
-        "genders": [
-            "Classics",
-            "Poetry",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Poetry",
+        "gender3": "Fiction"
     },
     {
         "title": "East of Eden",
@@ -1575,11 +1351,9 @@
         "valuation": 4.41,
         "pages": 601,
         "link": "https://www.goodreads.com//book/show/4406.East_of_Eden",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Where the Red Fern Grows",
@@ -1589,11 +1363,9 @@
         "valuation": 4.11,
         "pages": 272,
         "link": "https://www.goodreads.com//book/show/10365.Where_the_Red_Fern_Grows",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "The Tell-Tale Heart and Other Writings",
@@ -1603,11 +1375,9 @@
         "valuation": 4.19,
         "pages": 448,
         "link": "https://www.goodreads.com//book/show/391729.The_Tell_Tale_Heart_and_Other_Writings",
-        "genders": [
-            "Classics",
-            "Horror",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Horror",
+        "gender3": "Fiction"
     },
     {
         "title": "Man's Search for Meaning",
@@ -1617,11 +1387,9 @@
         "valuation": 4.37,
         "pages": 165,
         "link": "https://www.goodreads.com//book/show/4069.Man_s_Search_for_Meaning",
-        "genders": [
-            "Nonfiction",
-            "Psychology",
-            "Philosophy"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Psychology",
+        "gender3": "Philosophy"
     },
     {
         "title": "The Lorax",
@@ -1631,11 +1399,9 @@
         "valuation": 4.34,
         "pages": 72,
         "link": "https://www.goodreads.com//book/show/7784.The_Lorax",
-        "genders": [
-            "Childrens",
-            "Picture Books",
-            "Fiction"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Picture Books",
+        "gender3": "Fiction"
     },
     {
         "title": "Catching Fire",
@@ -1645,11 +1411,9 @@
         "valuation": 4.32,
         "pages": 391,
         "link": "https://www.goodreads.com//book/show/6148028-catching-fire",
-        "genders": [
-            "Young Adult",
-            "Dystopia",
-            "Fiction"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Dystopia",
+        "gender3": "Fiction"
     },
     {
         "title": "A Game of Thrones",
@@ -1659,11 +1423,9 @@
         "valuation": 4.44,
         "pages": 835,
         "link": "https://www.goodreads.com//book/show/13496.A_Game_of_Thrones",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Epic Fantasy"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Epic Fantasy"
     },
     {
         "title": "The Curious Incident of the Dog in the Night-Time",
@@ -1673,11 +1435,9 @@
         "valuation": 3.89,
         "pages": 226,
         "link": "https://www.goodreads.com//book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time",
-        "genders": [
-            "Fiction",
-            "Mystery",
-            "Young Adult"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Mystery",
+        "gender3": "Young Adult"
     },
     {
         "title": "The Declaration of Independence / The Constitution of the United States",
@@ -1687,11 +1447,9 @@
         "valuation": 4.44,
         "pages": 112,
         "link": "https://www.goodreads.com//book/show/285500.The_Declaration_of_Independence_The_Constitution_of_the_United_States",
-        "genders": [
-            "History",
-            "Nonfiction",
-            "Politics"
-        ]
+        "gender1": "History",
+        "gender2": "Nonfiction",
+        "gender3": "Politics"
     },
     {
         "title": "Watership Down",
@@ -1701,11 +1459,9 @@
         "valuation": 4.08,
         "pages": 478,
         "link": "https://www.goodreads.com//book/show/76620.Watership_Down",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Fantasy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Fantasy"
     },
     {
         "title": "The Bell Jar",
@@ -1715,11 +1471,9 @@
         "valuation": 4.05,
         "pages": 294,
         "link": "https://www.goodreads.com//book/show/6514.The_Bell_Jar",
-        "genders": [
-            "Fiction",
-            "Feminism",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Feminism",
+        "gender3": "Classics"
     },
     {
         "title": "Charlie and the Chocolate Factory",
@@ -1729,11 +1483,9 @@
         "valuation": 4.16,
         "pages": 176,
         "link": "https://www.goodreads.com//book/show/6310.Charlie_and_the_Chocolate_Factory",
-        "genders": [
-            "Fiction",
-            "Fantasy",
-            "Childrens"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Fantasy",
+        "gender3": "Childrens"
     },
     {
         "title": "Rebecca",
@@ -1743,11 +1495,9 @@
         "valuation": 4.24,
         "pages": 449,
         "link": "https://www.goodreads.com//book/show/17899948-rebecca",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Mystery"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Mystery"
     },
     {
         "title": "Dune",
@@ -1757,11 +1507,9 @@
         "valuation": 4.26,
         "pages": 658,
         "link": "https://www.goodreads.com//book/show/44767458-dune",
-        "genders": [
-            "Science Fiction",
-            "Fiction",
-            "Fantasy"
-        ]
+        "gender1": "Science Fiction",
+        "gender2": "Fiction",
+        "gender3": "Fantasy"
     },
     {
         "title": "The Last Lecture",
@@ -1771,11 +1519,9 @@
         "valuation": 4.26,
         "pages": 206,
         "link": "https://www.goodreads.com//book/show/2318271.The_Last_Lecture",
-        "genders": [
-            "Nonfiction",
-            "Memoir",
-            "Biography"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Memoir",
+        "gender3": "Biography"
     },
     {
         "title": "And Then There Were None",
@@ -1785,11 +1531,9 @@
         "valuation": 4.28,
         "pages": 264,
         "link": "https://www.goodreads.com//book/show/16299.And_Then_There_Were_None",
-        "genders": [
-            "Mystery",
-            "Fiction",
-            "Thriller"
-        ]
+        "gender1": "Mystery",
+        "gender2": "Fiction",
+        "gender3": "Thriller"
     },
     {
         "title": "The Velveteen Rabbit",
@@ -1799,25 +1543,9 @@
         "valuation": 4.3,
         "pages": 40,
         "link": "https://www.goodreads.com//book/show/144974.The_Velveteen_Rabbit",
-        "genders": [
-            "Classics",
-            "Childrens",
-            "Fiction"
-        ]
-    },
-    {
-        "title": "The Fountainhead",
-        "author": "Ayn Rand",
-        "published": "April 15, 1943",
-        "price": 9.99,
-        "valuation": 3.88,
-        "pages": 704,
-        "link": "https://www.goodreads.com//book/show/2122.The_Fountainhead",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Philosophy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Childrens",
+        "gender3": "Fiction"
     },
     {
         "title": "The Lovely Bones",
@@ -1827,11 +1555,21 @@
         "valuation": 3.85,
         "pages": 372,
         "link": "https://www.goodreads.com//book/show/12232938-the-lovely-bones",
-        "genders": [
-            "Fiction",
-            "Mystery",
-            "Young Adult"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Mystery",
+        "gender3": "Young Adult"
+    },
+    {
+        "title": "The Fountainhead",
+        "author": "Ayn Rand",
+        "published": "April 15, 1943",
+        "price": 9.99,
+        "valuation": 3.88,
+        "pages": 704,
+        "link": "https://www.goodreads.com//book/show/2122.The_Fountainhead",
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Philosophy"
     },
     {
         "title": "Alice in Wonderland",
@@ -1841,11 +1579,9 @@
         "valuation": 4.03,
         "pages": 96,
         "link": "https://www.goodreads.com//book/show/13023.Alice_in_Wonderland",
-        "genders": [
-            "Classics",
-            "Fantasy",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fantasy",
+        "gender3": "Fiction"
     },
     {
         "title": "The Call of the Wild",
@@ -1855,11 +1591,9 @@
         "valuation": 3.9,
         "pages": 172,
         "link": "https://www.goodreads.com//book/show/1852.The_Call_of_the_Wild",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Adventure"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Adventure"
     },
     {
         "title": "The Girl with the Dragon Tattoo",
@@ -1869,11 +1603,9 @@
         "valuation": 4.16,
         "pages": 480,
         "link": "https://www.goodreads.com//book/show/2429135.The_Girl_with_the_Dragon_Tattoo",
-        "genders": [
-            "Fiction",
-            "Mystery",
-            "Thriller"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Mystery",
+        "gender3": "Thriller"
     },
     {
         "title": "The Return of the King",
@@ -1883,11 +1615,9 @@
         "valuation": 4.56,
         "pages": 385,
         "link": "https://www.goodreads.com//book/show/838729.The_Return_of_the_King",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "Animal Farm / 1984",
@@ -1897,11 +1627,9 @@
         "valuation": 4.3,
         "pages": 400,
         "link": "https://www.goodreads.com//book/show/5472.Animal_Farm_1984",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Dystopia"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Dystopia"
     },
     {
         "title": "The Five People You Meet in Heaven",
@@ -1911,11 +1639,9 @@
         "valuation": 3.98,
         "pages": 196,
         "link": "https://www.goodreads.com//book/show/3431.The_Five_People_You_Meet_in_Heaven",
-        "genders": [
-            "Fiction",
-            "Contemporary",
-            "Inspirational"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Contemporary",
+        "gender3": "Inspirational"
     },
     {
         "title": "Perfume: The Story of a Murderer",
@@ -1925,11 +1651,9 @@
         "valuation": 4.03,
         "pages": 263,
         "link": "https://www.goodreads.com//book/show/343.Perfume",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Historical Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "A Story of Yesterday",
@@ -1939,11 +1663,9 @@
         "valuation": 4.59,
         "pages": 70,
         "link": "https://www.goodreads.com//book/show/58913358-a-story-of-yesterday",
-        "genders": [
-            "Spanish Literature",
-            "Thriller",
-            "European Literature"
-        ]
+        "gender1": "Spanish Literature",
+        "gender2": "Thriller",
+        "gender3": "European Literature"
     },
     {
         "title": "Angela's Ashes",
@@ -1953,11 +1675,9 @@
         "valuation": 4.14,
         "pages": 452,
         "link": "https://www.goodreads.com//book/show/252577.Angela_s_Ashes",
-        "genders": [
-            "Nonfiction",
-            "Memoir",
-            "Biography"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Memoir",
+        "gender3": "Biography"
     },
     {
         "title": "The Wonderful Wizard of Oz",
@@ -1967,11 +1687,9 @@
         "valuation": 4.0,
         "pages": 154,
         "link": "https://www.goodreads.com//book/show/236093.The_Wonderful_Wizard_of_Oz",
-        "genders": [
-            "Classics",
-            "Fantasy",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fantasy",
+        "gender3": "Fiction"
     },
     {
         "title": "The Two Towers",
@@ -1981,11 +1699,9 @@
         "valuation": 4.48,
         "pages": 448,
         "link": "https://www.goodreads.com//book/show/61215372-the-two-towers",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "Love You Forever",
@@ -1995,11 +1711,9 @@
         "valuation": 4.37,
         "pages": 32,
         "link": "https://www.goodreads.com//book/show/310259.Love_You_Forever",
-        "genders": [
-            "Picture Books",
-            "Childrens",
-            "Fiction"
-        ]
+        "gender1": "Picture Books",
+        "gender2": "Childrens",
+        "gender3": "Fiction"
     },
     {
         "title": "Bridge to Terabithia",
@@ -2009,11 +1723,9 @@
         "valuation": 4.04,
         "pages": 190,
         "link": "https://www.goodreads.com//book/show/40940121-bridge-to-terabithia",
-        "genders": [
-            "Fiction",
-            "Young Adult",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Young Adult",
+        "gender3": "Classics"
     },
     {
         "title": "The Divine Comedy",
@@ -2023,11 +1735,9 @@
         "valuation": 4.07,
         "pages": 798,
         "link": "https://www.goodreads.com//book/show/6656.The_Divine_Comedy",
-        "genders": [
-            "Classics",
-            "Poetry",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Poetry",
+        "gender3": "Fiction"
     },
     {
         "title": "The Road",
@@ -2037,11 +1747,9 @@
         "valuation": 3.99,
         "pages": 241,
         "link": "https://www.goodreads.com//book/show/6288.The_Road",
-        "genders": [
-            "Fiction",
-            "Science Fiction",
-            "Dystopia"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Science Fiction",
+        "gender3": "Dystopia"
     },
     {
         "title": "A Prayer for Owen Meany",
@@ -2051,11 +1759,9 @@
         "valuation": 4.24,
         "pages": 637,
         "link": "https://www.goodreads.com//book/show/4473.A_Prayer_for_Owen_Meany",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Contemporary"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Contemporary"
     },
     {
         "title": "A Midsummer Night's Dream",
@@ -2065,11 +1771,9 @@
         "valuation": 3.95,
         "pages": 240,
         "link": "https://www.goodreads.com//book/show/1622.A_Midsummer_Night_s_Dream",
-        "genders": [
-            "Classics",
-            "Plays",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Plays",
+        "gender3": "Fiction"
     },
     {
         "title": "Persuasion",
@@ -2079,25 +1783,21 @@
         "valuation": 4.15,
         "pages": 249,
         "link": "https://www.goodreads.com//book/show/2156.Persuasion",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Romance"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Romance"
     },
     {
         "title": "The Name of the Rose",
         "author": "Umberto Eco",
         "published": "January 1, 1980",
-        "price": 7.99,
+        "price": 13.99,
         "valuation": 4.14,
         "pages": 536,
         "link": "https://www.goodreads.com//book/show/119073.The_Name_of_the_Rose",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Mystery"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Mystery"
     },
     {
         "title": "The Prophet",
@@ -2107,11 +1807,9 @@
         "valuation": 4.23,
         "pages": 127,
         "link": "https://www.goodreads.com//book/show/2547.The_Prophet",
-        "genders": [
-            "Poetry",
-            "Classics",
-            "Philosophy"
-        ]
+        "gender1": "Poetry",
+        "gender2": "Classics",
+        "gender3": "Philosophy"
     },
     {
         "title": "The Three Musketeers",
@@ -2121,11 +1819,9 @@
         "valuation": 4.09,
         "pages": 625,
         "link": "https://www.goodreads.com//book/show/7190.The_Three_Musketeers",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Golden Compass",
@@ -2135,11 +1831,9 @@
         "valuation": 4.02,
         "pages": 399,
         "link": "https://www.goodreads.com//book/show/119322.The_Golden_Compass",
-        "genders": [
-            "Fantasy",
-            "Young Adult",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Young Adult",
+        "gender3": "Fiction"
     },
     {
         "title": "Water for Elephants",
@@ -2149,11 +1843,9 @@
         "valuation": 4.11,
         "pages": 368,
         "link": "https://www.goodreads.com//book/show/43641.Water_for_Elephants",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Romance"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Romance"
     },
     {
         "title": "The Boy in the Striped Pajamas",
@@ -2163,11 +1855,9 @@
         "valuation": 4.15,
         "pages": 224,
         "link": "https://www.goodreads.com//book/show/39999.The_Boy_in_the_Striped_Pajamas",
-        "genders": [
-            "Historical Fiction",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "The Pillars of the Earth",
@@ -2177,11 +1867,9 @@
         "valuation": 4.33,
         "pages": 976,
         "link": "https://www.goodreads.com//book/show/5043.The_Pillars_of_the_Earth",
-        "genders": [
-            "Historical Fiction",
-            "Fiction",
-            "Historical"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Fiction",
+        "gender3": "Historical"
     },
     {
         "title": "How the Grinch Stole Christmas!",
@@ -2191,11 +1879,9 @@
         "valuation": 4.37,
         "pages": 64,
         "link": "https://www.goodreads.com//book/show/113946.How_the_Grinch_Stole_Christmas_",
-        "genders": [
-            "Childrens",
-            "Picture Books",
-            "Christmas"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Picture Books",
+        "gender3": "Christmas"
     },
     {
         "title": "Jonathan Livingston Seagull",
@@ -2205,25 +1891,21 @@
         "valuation": 3.85,
         "pages": 112,
         "link": "https://www.goodreads.com//book/show/71728.Jonathan_Livingston_Seagull",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Philosophy"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Philosophy"
     },
     {
         "title": "Oliver Twist",
         "author": "Charles Dickens",
         "published": "January 1, 1838",
-        "price": 3.01,
+        "price": 3.8,
         "valuation": 3.88,
         "pages": 608,
         "link": "https://www.goodreads.com//book/show/18254.Oliver_Twist",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Secret Life of Bees",
@@ -2233,11 +1915,9 @@
         "valuation": 4.09,
         "pages": 302,
         "link": "https://www.goodreads.com//book/show/37435.The_Secret_Life_of_Bees",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Notebook",
@@ -2247,11 +1927,9 @@
         "valuation": 4.14,
         "pages": 227,
         "link": "https://www.goodreads.com//book/show/33648131-the-notebook",
-        "genders": [
-            "Romance",
-            "Fiction",
-            "Chick Lit"
-        ]
+        "gender1": "Romance",
+        "gender2": "Fiction",
+        "gender3": "Chick Lit"
     },
     {
         "title": "The Master and Margarita",
@@ -2261,11 +1939,9 @@
         "valuation": 4.29,
         "pages": 372,
         "link": "https://www.goodreads.com//book/show/117833.The_Master_and_Margarita",
-        "genders": [
-            "Fiction",
-            "Russia",
-            "Fantasy"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Russia",
+        "gender3": "Fantasy"
     },
     {
         "title": "Mockingjay",
@@ -2275,11 +1951,9 @@
         "valuation": 4.08,
         "pages": 390,
         "link": "https://www.goodreads.com//book/show/7260188-mockingjay",
-        "genders": [
-            "Young Adult",
-            "Dystopia",
-            "Fiction"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Dystopia",
+        "gender3": "Fiction"
     },
     {
         "title": "The Complete Sherlock Holmes",
@@ -2289,11 +1963,9 @@
         "valuation": 4.5,
         "pages": 1796,
         "link": "https://www.goodreads.com//book/show/188572.The_Complete_Sherlock_Holmes",
-        "genders": [
-            "Classics",
-            "Mystery",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Mystery",
+        "gender3": "Fiction"
     },
     {
         "title": "In Cold Blood",
@@ -2303,11 +1975,9 @@
         "valuation": 4.08,
         "pages": 343,
         "link": "https://www.goodreads.com//book/show/168642.In_Cold_Blood",
-        "genders": [
-            "Nonfiction",
-            "Classics",
-            "True Crime"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Classics",
+        "gender3": "True Crime"
     },
     {
         "title": "The Red Tent",
@@ -2317,11 +1987,9 @@
         "valuation": 4.2,
         "pages": 324,
         "link": "https://www.goodreads.com//book/show/4989.The_Red_Tent",
-        "genders": [
-            "Historical Fiction",
-            "Fiction",
-            "Historical"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Fiction",
+        "gender3": "Historical"
     },
     {
         "title": "The Crucible: A Play in Four Acts",
@@ -2331,11 +1999,9 @@
         "valuation": 3.6,
         "pages": 143,
         "link": "https://www.goodreads.com//book/show/17250.The_Crucible",
-        "genders": [
-            "Classics",
-            "Plays",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Plays",
+        "gender3": "Fiction"
     },
     {
         "title": "The Shadow of the Wind",
@@ -2345,11 +2011,9 @@
         "valuation": 4.29,
         "pages": 487,
         "link": "https://www.goodreads.com//book/show/1232.The_Shadow_of_the_Wind",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Mystery"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Mystery"
     },
     {
         "title": "Heart of Darkness",
@@ -2359,11 +2023,9 @@
         "valuation": 3.43,
         "pages": 188,
         "link": "https://www.goodreads.com//book/show/4900.Heart_of_Darkness",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "Love in the Time of Cholera",
@@ -2373,11 +2035,9 @@
         "valuation": 3.93,
         "pages": 348,
         "link": "https://www.goodreads.com//book/show/9712.Love_in_the_Time_of_Cholera",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Historical Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Glass Castle",
@@ -2387,11 +2047,9 @@
         "valuation": 4.31,
         "pages": 288,
         "link": "https://www.goodreads.com//book/show/7445.The_Glass_Castle",
-        "genders": [
-            "Nonfiction",
-            "Memoir",
-            "Biography"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Memoir",
+        "gender3": "Biography"
     },
     {
         "title": "The Gift of the Magi",
@@ -2401,25 +2059,21 @@
         "valuation": 4.1,
         "pages": 26,
         "link": "https://www.goodreads.com//book/show/143534.The_Gift_of_the_Magi",
-        "genders": [
-            "Classics",
-            "Short Stories",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Short Stories",
+        "gender3": "Fiction"
     },
     {
         "title": "Eat, Pray, Love",
         "author": "Elizabeth Gilbert",
         "published": "February 16, 2006",
-        "price": 12.99,
+        "price": 14.99,
         "valuation": 3.62,
         "pages": 368,
         "link": "https://www.goodreads.com//book/show/19501.Eat_Pray_Love",
-        "genders": [
-            "Nonfiction",
-            "Memoir",
-            "Travel"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Memoir",
+        "gender3": "Travel"
     },
     {
         "title": "The Unbearable Lightness of Being",
@@ -2429,11 +2083,9 @@
         "valuation": 4.11,
         "pages": 314,
         "link": "https://www.goodreads.com//book/show/9717.The_Unbearable_Lightness_of_Being",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Philosophy"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Philosophy"
     },
     {
         "title": "Interview with the Vampire",
@@ -2443,11 +2095,9 @@
         "valuation": 4.02,
         "pages": 346,
         "link": "https://www.goodreads.com//book/show/43763.Interview_with_the_Vampire",
-        "genders": [
-            "Horror",
-            "Fantasy",
-            "Fiction"
-        ]
+        "gender1": "Horror",
+        "gender2": "Fantasy",
+        "gender3": "Fiction"
     },
     {
         "title": "The Art of War",
@@ -2457,11 +2107,9 @@
         "valuation": 3.96,
         "pages": 273,
         "link": "https://www.goodreads.com//book/show/10534.The_Art_of_War",
-        "genders": [
-            "Classics",
-            "Nonfiction",
-            "Philosophy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Nonfiction",
+        "gender3": "Philosophy"
     },
     {
         "title": "The Canterbury Tales",
@@ -2471,11 +2119,9 @@
         "valuation": 3.52,
         "pages": 504,
         "link": "https://www.goodreads.com//book/show/2696.The_Canterbury_Tales",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Poetry"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Poetry"
     },
     {
         "title": "On the Road",
@@ -2485,11 +2131,9 @@
         "valuation": 3.61,
         "pages": 307,
         "link": "https://www.goodreads.com//book/show/70401.On_the_Road",
-        "genders": [
-            "Fiction",
-            "Travel",
-            "Literature"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Travel",
+        "gender3": "Literature"
     },
     {
         "title": "Aesop's Fables",
@@ -2499,11 +2143,9 @@
         "valuation": 4.05,
         "pages": 352,
         "link": "https://www.goodreads.com//book/show/21348.Aesop_s_Fables",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Short Stories"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Short Stories"
     },
     {
         "title": "The Screwtape Letters",
@@ -2513,11 +2155,9 @@
         "valuation": 4.26,
         "pages": 222,
         "link": "https://www.goodreads.com//book/show/8130077-the-screwtape-letters",
-        "genders": [
-            "Fiction",
-            "Christian",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Christian",
+        "gender3": "Classics"
     },
     {
         "title": "The Godfather",
@@ -2527,11 +2167,9 @@
         "valuation": 4.38,
         "pages": 448,
         "link": "https://www.goodreads.com//book/show/22034.The_Godfather",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Crime"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Crime"
     },
     {
         "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
@@ -2541,11 +2179,9 @@
         "valuation": 4.61,
         "pages": 1728,
         "link": "https://www.goodreads.com//book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "Dr. Jekyll and Mr. Hyde",
@@ -2555,11 +2191,9 @@
         "valuation": 3.83,
         "pages": 139,
         "link": "https://www.goodreads.com//book/show/51496.Dr_Jekyll_and_Mr_Hyde",
-        "genders": [
-            "Horror",
-            "Classics",
-            "Science Fiction"
-        ]
+        "gender1": "Horror",
+        "gender2": "Classics",
+        "gender3": "Science Fiction"
     },
     {
         "title": "Fight Club",
@@ -2569,11 +2203,9 @@
         "valuation": 4.19,
         "pages": 224,
         "link": "https://www.goodreads.com//book/show/36236124-fight-club",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Thriller"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Thriller"
     },
     {
         "title": "Walden",
@@ -2583,11 +2215,9 @@
         "valuation": 3.78,
         "pages": 352,
         "link": "https://www.goodreads.com//book/show/16902.Walden",
-        "genders": [
-            "Classics",
-            "Philosophy",
-            "Nonfiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Philosophy",
+        "gender3": "Nonfiction"
     },
     {
         "title": "Gulliver's Travels",
@@ -2597,11 +2227,9 @@
         "valuation": 3.58,
         "pages": 306,
         "link": "https://www.goodreads.com//book/show/7733.Gulliver_s_Travels",
-        "genders": [
-            "Fiction",
-            "Fantasy",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Fantasy",
+        "gender3": "Classics"
     },
     {
         "title": "Robinson Crusoe",
@@ -2611,11 +2239,9 @@
         "valuation": 3.68,
         "pages": 320,
         "link": "https://www.goodreads.com//book/show/2932.Robinson_Crusoe",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Adventure"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Adventure"
     },
     {
         "title": "The Origin of Species",
@@ -2625,11 +2251,9 @@
         "valuation": 4.01,
         "pages": 703,
         "link": "https://www.goodreads.com//book/show/22463.The_Origin_of_Species",
-        "genders": [
-            "Science",
-            "Nonfiction",
-            "Classics"
-        ]
+        "gender1": "Science",
+        "gender2": "Nonfiction",
+        "gender3": "Classics"
     },
     {
         "title": "Invisible Man",
@@ -2639,11 +2263,9 @@
         "valuation": 3.91,
         "pages": 581,
         "link": "https://www.goodreads.com//book/show/16981.Invisible_Man",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "Emma",
@@ -2653,11 +2275,9 @@
         "valuation": 4.04,
         "pages": 474,
         "link": "https://www.goodreads.com//book/show/6969.Emma",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Romance"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Romance"
     },
     {
         "title": "The Prince",
@@ -2667,11 +2287,9 @@
         "valuation": 3.84,
         "pages": 144,
         "link": "https://www.goodreads.com//book/show/28862.The_Prince",
-        "genders": [
-            "Classics",
-            "Philosophy",
-            "Nonfiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Philosophy",
+        "gender3": "Nonfiction"
     },
     {
         "title": "Sophie's World",
@@ -2681,11 +2299,9 @@
         "valuation": 3.96,
         "pages": 403,
         "link": "https://www.goodreads.com//book/show/10959.Sophie_s_World",
-        "genders": [
-            "Philosophy",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Philosophy",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Complete Grimm's Fairy Tales",
@@ -2695,11 +2311,9 @@
         "valuation": 4.28,
         "pages": 880,
         "link": "https://www.goodreads.com//book/show/22917.The_Complete_Grimm_s_Fairy_Tales",
-        "genders": [
-            "Classics",
-            "Fantasy",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fantasy",
+        "gender3": "Fiction"
     },
     {
         "title": "The Time Machine",
@@ -2709,11 +2323,9 @@
         "valuation": 3.9,
         "pages": 118,
         "link": "https://www.goodreads.com//book/show/2493.The_Time_Machine",
-        "genders": [
-            "Classics",
-            "Science Fiction",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Science Fiction",
+        "gender3": "Fiction"
     },
     {
         "title": "The Trial",
@@ -2723,11 +2335,9 @@
         "valuation": 3.96,
         "pages": 255,
         "link": "https://www.goodreads.com//book/show/17690.The_Trial",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Philosophy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Philosophy"
     },
     {
         "title": "Watchmen",
@@ -2737,11 +2347,9 @@
         "valuation": 4.38,
         "pages": 416,
         "link": "https://www.goodreads.com//book/show/472331.Watchmen",
-        "genders": [
-            "Graphic Novels",
-            "Comics",
-            "Fiction"
-        ]
+        "gender1": "Graphic Novels",
+        "gender2": "Comics",
+        "gender3": "Fiction"
     },
     {
         "title": "Candide",
@@ -2751,11 +2359,9 @@
         "valuation": 3.76,
         "pages": 129,
         "link": "https://www.goodreads.com//book/show/19380.Candide",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Philosophy"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Philosophy"
     },
     {
         "title": "Roots: The Saga of an American Family",
@@ -2765,11 +2371,9 @@
         "valuation": 4.44,
         "pages": 888,
         "link": "https://www.goodreads.com//book/show/546018.Roots",
-        "genders": [
-            "Historical Fiction",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "Beloved",
@@ -2779,25 +2383,21 @@
         "valuation": 3.94,
         "pages": 324,
         "link": "https://www.goodreads.com//book/show/6149.Beloved",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Historical Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Atonement",
         "author": "Ian McEwan",
         "published": "September 20, 2001",
-        "price": 12.99,
+        "price": 13.99,
         "valuation": 3.93,
         "pages": 351,
         "link": "https://www.goodreads.com//book/show/6867.Atonement",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Fellowship of the Ring",
@@ -2807,11 +2407,9 @@
         "valuation": 4.39,
         "pages": 432,
         "link": "https://www.goodreads.com//book/show/61215351-the-fellowship-of-the-ring",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "Go Ask Alice",
@@ -2821,11 +2419,9 @@
         "valuation": 3.74,
         "pages": 213,
         "link": "https://www.goodreads.com//book/show/46799.Go_Ask_Alice",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Things They Carried",
@@ -2835,11 +2431,9 @@
         "valuation": 4.14,
         "pages": 246,
         "link": "https://www.goodreads.com//book/show/133518.The_Things_They_Carried",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "Tuck Everlasting",
@@ -2849,11 +2443,9 @@
         "valuation": 3.9,
         "pages": 148,
         "link": "https://www.goodreads.com//book/show/84981.Tuck_Everlasting",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Young Adult"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Young Adult"
     },
     {
         "title": "My Sister's Keeper",
@@ -2863,11 +2455,9 @@
         "valuation": 4.1,
         "pages": 423,
         "link": "https://www.goodreads.com//book/show/10917.My_Sister_s_Keeper",
-        "genders": [
-            "Fiction",
-            "Contemporary",
-            "Chick Lit"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Contemporary",
+        "gender3": "Chick Lit"
     },
     {
         "title": "Divergent",
@@ -2877,11 +2467,9 @@
         "valuation": 4.15,
         "pages": 487,
         "link": "https://www.goodreads.com//book/show/13335037-divergent",
-        "genders": [
-            "Young Adult",
-            "Dystopia",
-            "Fantasy"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Dystopia",
+        "gender3": "Fantasy"
     },
     {
         "title": "Stranger in a Strange Land",
@@ -2891,11 +2479,9 @@
         "valuation": 3.92,
         "pages": 525,
         "link": "https://www.goodreads.com//book/show/350.Stranger_in_a_Strange_Land",
-        "genders": [
-            "Science Fiction",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Science Fiction",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Sun Also Rises",
@@ -2905,11 +2491,9 @@
         "valuation": 3.8,
         "pages": 189,
         "link": "https://www.goodreads.com//book/show/3876.The_Sun_Also_Rises",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "The Mists of Avalon",
@@ -2919,11 +2503,9 @@
         "valuation": 4.13,
         "pages": 884,
         "link": "https://www.goodreads.com//book/show/402045.The_Mists_of_Avalon",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "Mere Christianity",
@@ -2933,11 +2515,9 @@
         "valuation": 4.35,
         "pages": 98,
         "link": "https://www.goodreads.com//book/show/40792344-mere-christianity",
-        "genders": [
-            "Christian",
-            "Nonfiction",
-            "Religion"
-        ]
+        "gender1": "Christian",
+        "gender2": "Nonfiction",
+        "gender3": "Religion"
     },
     {
         "title": "The Lightning Thief",
@@ -2947,11 +2527,9 @@
         "valuation": 4.3,
         "pages": 377,
         "link": "https://www.goodreads.com//book/show/28187.The_Lightning_Thief",
-        "genders": [
-            "Fantasy",
-            "Young Adult",
-            "Mythology"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Young Adult",
+        "gender3": "Mythology"
     },
     {
         "title": "The Phantom Tollbooth",
@@ -2961,11 +2539,9 @@
         "valuation": 4.19,
         "pages": 248,
         "link": "https://www.goodreads.com//book/show/378.The_Phantom_Tollbooth",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Tale of Peter Rabbit",
@@ -2975,11 +2551,9 @@
         "valuation": 4.21,
         "pages": 72,
         "link": "https://www.goodreads.com//book/show/19321.The_Tale_of_Peter_Rabbit",
-        "genders": [
-            "Childrens",
-            "Classics",
-            "Picture Books"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Classics",
+        "gender3": "Picture Books"
     },
     {
         "title": "Murder on the Orient Express",
@@ -2989,11 +2563,9 @@
         "valuation": 4.2,
         "pages": 274,
         "link": "https://www.goodreads.com//book/show/853510.Murder_on_the_Orient_Express",
-        "genders": [
-            "Mystery",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Mystery",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "The Complete Maus",
@@ -3003,11 +2575,9 @@
         "valuation": 4.57,
         "pages": 296,
         "link": "https://www.goodreads.com//book/show/15195.The_Complete_Maus",
-        "genders": [
-            "Graphic Novels",
-            "Comics",
-            "Nonfiction"
-        ]
+        "gender1": "Graphic Novels",
+        "gender2": "Comics",
+        "gender3": "Nonfiction"
     },
     {
         "title": "Number the Stars",
@@ -3017,11 +2587,9 @@
         "valuation": 4.18,
         "pages": 137,
         "link": "https://www.goodreads.com//book/show/47281.Number_the_Stars",
-        "genders": [
-            "Historical Fiction",
-            "Young Adult",
-            "Fiction"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Young Adult",
+        "gender3": "Fiction"
     },
     {
         "title": null,
@@ -3031,7 +2599,9 @@
         "valuation": null,
         "pages": null,
         "link": "https://www.goodreads.com//book/show/89959.U_S_Constitution_Saddlewire_",
-        "genders": []
+        "gender1": null,
+        "gender2": null,
+        "gender3": null
     },
     {
         "title": "James and the Giant Peach",
@@ -3041,11 +2611,9 @@
         "valuation": 4.03,
         "pages": 176,
         "link": "https://www.goodreads.com//book/show/6689.James_and_the_Giant_Peach",
-        "genders": [
-            "Childrens",
-            "Fantasy",
-            "Fiction"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Fantasy",
+        "gender3": "Fiction"
     },
     {
         "title": "Bury My Heart at Wounded Knee: An Indian History of the American West",
@@ -3055,11 +2623,9 @@
         "valuation": 4.24,
         "pages": 509,
         "link": "https://www.goodreads.com//book/show/76401.Bury_My_Heart_at_Wounded_Knee",
-        "genders": [
-            "History",
-            "Nonfiction",
-            "American History"
-        ]
+        "gender1": "History",
+        "gender2": "Nonfiction",
+        "gender3": "American History"
     },
     {
         "title": "The Ultimate Hitchhiker's Guide to the Galaxy",
@@ -3069,11 +2635,9 @@
         "valuation": 4.38,
         "pages": 815,
         "link": "https://www.goodreads.com//book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy",
-        "genders": [
-            "Science Fiction",
-            "Fiction",
-            "Humor"
-        ]
+        "gender1": "Science Fiction",
+        "gender2": "Fiction",
+        "gender3": "Humor"
     },
     {
         "title": "Schindler's List",
@@ -3083,25 +2647,21 @@
         "valuation": 4.34,
         "pages": 429,
         "link": "https://www.goodreads.com//book/show/375013.Schindler_s_List",
-        "genders": [
-            "History",
-            "Nonfiction",
-            "Holocaust"
-        ]
+        "gender1": "History",
+        "gender2": "Nonfiction",
+        "gender3": "Holocaust"
     },
     {
         "title": "The Autobiography of Malcolm X",
         "author": "Malcolm X",
         "published": "October 29, 1965",
-        "price": 5.99,
+        "price": 9.99,
         "valuation": 4.35,
         "pages": 466,
         "link": "https://www.goodreads.com//book/show/92057.The_Autobiography_of_Malcolm_X",
-        "genders": [
-            "Nonfiction",
-            "Biography",
-            "History"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Biography",
+        "gender3": "History"
     },
     {
         "title": "A Little Princess",
@@ -3111,11 +2671,9 @@
         "valuation": 4.22,
         "pages": 242,
         "link": "https://www.goodreads.com//book/show/3008.A_Little_Princess",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Childrens"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Childrens"
     },
     {
         "title": "The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury",
@@ -3125,11 +2683,9 @@
         "valuation": 4.64,
         "pages": 256,
         "link": "https://www.goodreads.com//book/show/43070.The_Essential_Calvin_and_Hobbes",
-        "genders": [
-            "Comics",
-            "Humor",
-            "Graphic Novels"
-        ]
+        "gender1": "Comics",
+        "gender2": "Humor",
+        "gender3": "Graphic Novels"
     },
     {
         "title": "Middlesex",
@@ -3139,11 +2695,9 @@
         "valuation": 4.03,
         "pages": 529,
         "link": "https://www.goodreads.com//book/show/2187.Middlesex",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Contemporary"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Contemporary"
     },
     {
         "title": "Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time",
@@ -3153,11 +2707,9 @@
         "valuation": 3.66,
         "pages": 349,
         "link": "https://www.goodreads.com//book/show/49436.Three_Cups_of_Tea",
-        "genders": [
-            "Nonfiction",
-            "Memoir",
-            "Biography"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Memoir",
+        "gender3": "Biography"
     },
     {
         "title": "A Child Called \"It\"",
@@ -3167,25 +2719,21 @@
         "valuation": 4.12,
         "pages": 184,
         "link": "https://www.goodreads.com//book/show/60748.A_Child_Called_It_",
-        "genders": [
-            "Nonfiction",
-            "Memoir",
-            "Biography"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Memoir",
+        "gender3": "Biography"
     },
     {
         "title": "Into the Wild",
         "author": "Jon Krakauer",
         "published": "January 13, 1996",
-        "price": null,
+        "price": 12.99,
         "valuation": 4.01,
         "pages": 203,
         "link": "https://www.goodreads.com//book/show/1845.Into_the_Wild",
-        "genders": [
-            "Nonfiction",
-            "Biography",
-            "Adventure"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Biography",
+        "gender3": "Adventure"
     },
     {
         "title": "Leaves of Grass",
@@ -3195,11 +2743,9 @@
         "valuation": 4.12,
         "pages": 624,
         "link": "https://www.goodreads.com//book/show/27494.Leaves_of_Grass",
-        "genders": [
-            "Poetry",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Poetry",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "Their Eyes Were Watching God",
@@ -3209,11 +2755,9 @@
         "valuation": 3.98,
         "pages": 238,
         "link": "https://www.goodreads.com//book/show/37415.Their_Eyes_Were_Watching_God",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Wind in the Willows",
@@ -3223,11 +2767,9 @@
         "valuation": 4.0,
         "pages": 197,
         "link": "https://www.goodreads.com//book/show/5659.The_Wind_in_the_Willows",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Childrens"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Childrens"
     },
     {
         "title": "Speak",
@@ -3237,11 +2779,9 @@
         "valuation": 4.04,
         "pages": 202,
         "link": "https://www.goodreads.com//book/show/439288.Speak",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Contemporary"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Contemporary"
     },
     {
         "title": "Peter Pan",
@@ -3251,11 +2791,9 @@
         "valuation": 4.04,
         "pages": 176,
         "link": "https://www.goodreads.com//book/show/34268.Peter_Pan",
-        "genders": [
-            "Classics",
-            "Fantasy",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fantasy",
+        "gender3": "Fiction"
     },
     {
         "title": "The Republic",
@@ -3265,11 +2803,9 @@
         "valuation": 3.96,
         "pages": 416,
         "link": "https://www.goodreads.com//book/show/30289.The_Republic",
-        "genders": [
-            "Philosophy",
-            "Classics",
-            "Nonfiction"
-        ]
+        "gender1": "Philosophy",
+        "gender2": "Classics",
+        "gender3": "Nonfiction"
     },
     {
         "title": "A People's History of the United States",
@@ -3279,11 +2815,9 @@
         "valuation": 4.07,
         "pages": 729,
         "link": "https://www.goodreads.com//book/show/2767.A_People_s_History_of_the_United_States",
-        "genders": [
-            "History",
-            "Nonfiction",
-            "Politics"
-        ]
+        "gender1": "History",
+        "gender2": "Nonfiction",
+        "gender3": "Politics"
     },
     {
         "title": "American Gods",
@@ -3293,11 +2827,9 @@
         "valuation": 4.11,
         "pages": 635,
         "link": "https://www.goodreads.com//book/show/30165203-american-gods",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Mythology"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Mythology"
     },
     {
         "title": "Holes",
@@ -3307,11 +2839,9 @@
         "valuation": 3.99,
         "pages": 272,
         "link": "https://www.goodreads.com//book/show/38709.Holes",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Middle Grade"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Middle Grade"
     },
     {
         "title": "The Story of My Life",
@@ -3321,25 +2851,21 @@
         "valuation": 4.08,
         "pages": 240,
         "link": "https://www.goodreads.com//book/show/821611.The_Story_of_My_Life",
-        "genders": [
-            "Nonfiction",
-            "Biography",
-            "Classics"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Biography",
+        "gender3": "Classics"
     },
     {
         "title": "The World According to Garp",
         "author": "John Irving",
         "published": "April 24, 1978",
-        "price": 12.99,
+        "price": 14.99,
         "valuation": 4.1,
         "pages": 610,
         "link": "https://www.goodreads.com//book/show/7069.The_World_According_to_Garp",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Contemporary"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Literature"
     },
     {
         "title": "Looking for Alaska",
@@ -3349,25 +2875,21 @@
         "valuation": 3.97,
         "pages": 221,
         "link": "https://www.goodreads.com//book/show/99561.Looking_for_Alaska",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Contemporary"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Contemporary"
     },
     {
         "title": "The Secret Magdalene",
         "author": "Ki Longfellow",
         "published": "January 1, 2005",
-        "price": 9.99,
-        "valuation": 4.16,
+        "price": 13.99,
+        "valuation": 4.15,
         "pages": 448,
         "link": "https://www.goodreads.com//book/show/514811.The_Secret_Magdalene",
-        "genders": [
-            "Historical Fiction",
-            "Fiction",
-            "Religion"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Fiction",
+        "gender3": "Religion"
     },
     {
         "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
@@ -3377,11 +2899,9 @@
         "valuation": 4.25,
         "pages": 491,
         "link": "https://www.goodreads.com//book/show/12067.Good_Omens",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Humor"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Humor"
     },
     {
         "title": "The Hound of the Baskervilles",
@@ -3391,11 +2911,9 @@
         "valuation": 4.13,
         "pages": 256,
         "link": "https://www.goodreads.com//book/show/8921.The_Hound_of_the_Baskervilles",
-        "genders": [
-            "Classics",
-            "Mystery",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Mystery",
+        "gender3": "Fiction"
     },
     {
         "title": "Things Fall Apart",
@@ -3405,11 +2923,9 @@
         "valuation": 3.73,
         "pages": 215,
         "link": "https://www.goodreads.com//book/show/37781.Things_Fall_Apart",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Historical Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "A Short History of Nearly Everything",
@@ -3419,11 +2935,9 @@
         "valuation": 4.21,
         "pages": 544,
         "link": "https://www.goodreads.com//book/show/21.A_Short_History_of_Nearly_Everything",
-        "genders": [
-            "Nonfiction",
-            "Science",
-            "History"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Science",
+        "gender3": "History"
     },
     {
         "title": "The Addiction Manifesto",
@@ -3433,11 +2947,9 @@
         "valuation": 4.84,
         "pages": 178,
         "link": "https://www.goodreads.com//book/show/58572970-the-addiction-manifesto",
-        "genders": [
-            "Nonfiction",
-            "Self Help",
-            "Memoir"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Self Help",
+        "gender3": "Memoir"
     },
     {
         "title": "A Brief History of Time",
@@ -3447,11 +2959,9 @@
         "valuation": 4.21,
         "pages": 226,
         "link": "https://www.goodreads.com//book/show/3869.A_Brief_History_of_Time",
-        "genders": [
-            "Science",
-            "Nonfiction",
-            "Physics"
-        ]
+        "gender1": "Science",
+        "gender2": "Nonfiction",
+        "gender3": "Physics"
     },
     {
         "title": "Island of the Blue Dolphins",
@@ -3461,11 +2971,9 @@
         "valuation": 3.86,
         "pages": 194,
         "link": "https://www.goodreads.com//book/show/41044096-island-of-the-blue-dolphins",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "زندگی مه آلود پریا",
@@ -3475,21 +2983,21 @@
         "valuation": 3.3,
         "pages": 204,
         "link": "https://www.goodreads.com//book/show/40937505",
-        "genders": []
+        "gender1": "Fiction",
+        "gender2": null,
+        "gender3": null
     },
     {
         "title": "Cat's Cradle",
         "author": "Kurt Vonnegut Jr.",
         "published": "January 1, 1963",
-        "price": 9.99,
+        "price": 10.99,
         "valuation": 4.16,
         "pages": 179,
         "link": "https://www.goodreads.com//book/show/135479.Cat_s_Cradle",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Science Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Science Fiction"
     },
     {
         "title": "A Farewell to Arms",
@@ -3499,11 +3007,9 @@
         "valuation": 3.82,
         "pages": 293,
         "link": "https://www.goodreads.com//book/show/10799.A_Farewell_to_Arms",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Complete Fairy Tales",
@@ -3513,11 +3019,9 @@
         "valuation": 4.29,
         "pages": 803,
         "link": "https://www.goodreads.com//book/show/46306.The_Complete_Fairy_Tales",
-        "genders": [
-            "Classics",
-            "Fantasy",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fantasy",
+        "gender3": "Fiction"
     },
     {
         "title": "Blindness",
@@ -3527,25 +3031,21 @@
         "valuation": 4.17,
         "pages": 349,
         "link": "https://www.goodreads.com//book/show/40495148-blindness",
-        "genders": [
-            "Fiction",
-            "Dystopia",
-            "Science Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Dystopia",
+        "gender3": "Science Fiction"
     },
     {
         "title": "A Separate Peace",
         "author": "John Knowles",
         "published": "January 1, 1959",
-        "price": 12.99,
+        "price": 1.99,
         "valuation": 3.59,
         "pages": 208,
         "link": "https://www.goodreads.com//book/show/5148.A_Separate_Peace",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Young Adult"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Young Adult"
     },
     {
         "title": "The Raven",
@@ -3555,11 +3055,9 @@
         "valuation": 4.29,
         "pages": 64,
         "link": "https://www.goodreads.com//book/show/264158.The_Raven",
-        "genders": [
-            "Poetry",
-            "Classics",
-            "Horror"
-        ]
+        "gender1": "Poetry",
+        "gender2": "Classics",
+        "gender3": "Horror"
     },
     {
         "title": "The Shack",
@@ -3569,11 +3067,9 @@
         "valuation": 3.81,
         "pages": 248,
         "link": "https://www.goodreads.com//book/show/1812457.The_Shack",
-        "genders": [
-            "Fiction",
-            "Christian",
-            "Christian Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Christian",
+        "gender3": "Christian Fiction"
     },
     {
         "title": "Fried Green Tomatoes at the Whistle Stop Cafe",
@@ -3583,11 +3079,9 @@
         "valuation": 4.28,
         "pages": 416,
         "link": "https://www.goodreads.com//book/show/9375.Fried_Green_Tomatoes_at_the_Whistle_Stop_Cafe",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "LGBT"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "LGBT"
     },
     {
         "title": "Madame Bovary",
@@ -3597,11 +3091,9 @@
         "valuation": 3.7,
         "pages": 329,
         "link": "https://www.goodreads.com//book/show/2175.Madame_Bovary",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "France"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "France"
     },
     {
         "title": "The God Delusion",
@@ -3611,11 +3103,9 @@
         "valuation": 3.9,
         "pages": 374,
         "link": "https://www.goodreads.com//book/show/14743.The_God_Delusion",
-        "genders": [
-            "Nonfiction",
-            "Religion",
-            "Science"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Religion",
+        "gender3": "Science"
     },
     {
         "title": "The Joy Luck Club",
@@ -3625,25 +3115,21 @@
         "valuation": 3.97,
         "pages": 352,
         "link": "https://www.goodreads.com//book/show/7763.The_Joy_Luck_Club",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Classics"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "Tao Te Ching",
         "author": "Lao Tzu",
         "published": "January 1, 401",
-        "price": 9.99,
+        "price": 10.99,
         "valuation": 4.3,
         "pages": 107,
         "link": "https://www.goodreads.com//book/show/67896.Tao_Te_Ching",
-        "genders": [
-            "Philosophy",
-            "Nonfiction",
-            "Classics"
-        ]
+        "gender1": "Philosophy",
+        "gender2": "Nonfiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Neverending Story",
@@ -3653,25 +3139,21 @@
         "valuation": 4.18,
         "pages": 396,
         "link": "https://www.goodreads.com//book/show/27712.The_Neverending_Story",
-        "genders": [
-            "Fantasy",
-            "Classics",
-            "Fiction"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Classics",
+        "gender3": "Fiction"
     },
     {
         "title": "Sophie's Choice",
         "author": "William Styron",
         "published": "January 1, 1979",
-        "price": 2.99,
+        "price": 13.71,
         "valuation": 4.17,
         "pages": 562,
         "link": "https://www.goodreads.com//book/show/228560.Sophie_s_Choice",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Historical Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "A Confederacy of Dunces",
@@ -3681,11 +3163,9 @@
         "valuation": 3.89,
         "pages": 394,
         "link": "https://www.goodreads.com//book/show/310612.A_Confederacy_of_Dunces",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Humor"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Humor"
     },
     {
         "title": "How to Win Friends and Influence People",
@@ -3695,11 +3175,9 @@
         "valuation": 4.22,
         "pages": 288,
         "link": "https://www.goodreads.com//book/show/4865.How_to_Win_Friends_and_Influence_People",
-        "genders": [
-            "Self Help",
-            "Nonfiction",
-            "Business"
-        ]
+        "gender1": "Self Help",
+        "gender2": "Nonfiction",
+        "gender3": "Business"
     },
     {
         "title": "Angels & Demons",
@@ -3709,11 +3187,9 @@
         "valuation": 3.94,
         "pages": 736,
         "link": "https://www.goodreads.com//book/show/960.Angels_Demons",
-        "genders": [
-            "Fiction",
-            "Mystery",
-            "Thriller"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Mystery",
+        "gender3": "Thriller"
     },
     {
         "title": "Never Let Me Go",
@@ -3723,11 +3199,9 @@
         "valuation": 3.84,
         "pages": 288,
         "link": "https://www.goodreads.com//book/show/6334.Never_Let_Me_Go",
-        "genders": [
-            "Fiction",
-            "Science Fiction",
-            "Dystopia"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Science Fiction",
+        "gender3": "Dystopia"
     },
     {
         "title": "Guns, Germs, and Steel: The Fates of Human Societies",
@@ -3737,11 +3211,9 @@
         "valuation": 4.04,
         "pages": 498,
         "link": "https://www.goodreads.com//book/show/1842.Guns_Germs_and_Steel",
-        "genders": [
-            "History",
-            "Nonfiction",
-            "Science"
-        ]
+        "gender1": "History",
+        "gender2": "Nonfiction",
+        "gender3": "Science"
     },
     {
         "title": "Extremely Loud & Incredibly Close",
@@ -3751,11 +3223,9 @@
         "valuation": 3.97,
         "pages": 326,
         "link": "https://www.goodreads.com//book/show/4588.Extremely_Loud_Incredibly_Close",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Contemporary"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Contemporary"
     },
     {
         "title": "Flow Down Like Silver",
@@ -3765,11 +3235,9 @@
         "valuation": 3.98,
         "pages": 301,
         "link": "https://www.goodreads.com//book/show/6801755-flow-down-like-silver",
-        "genders": [
-            "Historical Fiction",
-            "Fiction",
-            "Egypt"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Fiction",
+        "gender3": "Egypt"
     },
     {
         "title": "The Clan of the Cave Bear",
@@ -3779,11 +3247,9 @@
         "valuation": 4.09,
         "pages": 516,
         "link": "https://www.goodreads.com//book/show/40611463-the-clan-of-the-cave-bear",
-        "genders": [
-            "Historical Fiction",
-            "Fiction",
-            "Fantasy"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Fiction",
+        "gender3": "Fantasy"
     },
     {
         "title": "Tess of the D'Urbervilles",
@@ -3793,11 +3259,9 @@
         "valuation": 3.83,
         "pages": 518,
         "link": "https://www.goodreads.com//book/show/32261.Tess_of_the_D_Urbervilles",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "The Color Purple",
@@ -3807,11 +3271,9 @@
         "valuation": 4.26,
         "pages": 288,
         "link": "https://www.goodreads.com//book/show/373115.The_Color_Purple",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Feminism"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Feminism"
     },
     {
         "title": "Outlander",
@@ -3821,11 +3283,9 @@
         "valuation": 4.26,
         "pages": 850,
         "link": "https://www.goodreads.com//book/show/10964.Outlander",
-        "genders": [
-            "Historical Fiction",
-            "Romance",
-            "Fantasy"
-        ]
+        "gender1": "Historical Fiction",
+        "gender2": "Romance",
+        "gender3": "Fantasy"
     },
     {
         "title": "The Tao of Pooh",
@@ -3835,11 +3295,9 @@
         "valuation": 4.0,
         "pages": 176,
         "link": "https://www.goodreads.com//book/show/48757.The_Tao_of_Pooh",
-        "genders": [
-            "Philosophy",
-            "Nonfiction",
-            "Spirituality"
-        ]
+        "gender1": "Philosophy",
+        "gender2": "Nonfiction",
+        "gender3": "Spirituality"
     },
     {
         "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
@@ -3849,11 +3307,9 @@
         "valuation": 4.15,
         "pages": 372,
         "link": "https://www.goodreads.com//book/show/36072.The_7_Habits_of_Highly_Effective_People",
-        "genders": [
-            "Self Help",
-            "Nonfiction",
-            "Business"
-        ]
+        "gender1": "Self Help",
+        "gender2": "Nonfiction",
+        "gender3": "Business"
     },
     {
         "title": "Eclipse",
@@ -3863,11 +3319,9 @@
         "valuation": 3.72,
         "pages": 629,
         "link": "https://www.goodreads.com//book/show/428263.Eclipse",
-        "genders": [
-            "Fantasy",
-            "Young Adult",
-            "Romance"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Young Adult",
+        "gender3": "Romance"
     },
     {
         "title": "One Day in the Life of Ivan Denisovich",
@@ -3877,11 +3331,9 @@
         "valuation": 3.98,
         "pages": 182,
         "link": "https://www.goodreads.com//book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich",
-        "genders": [
-            "Fiction",
-            "Classics",
-            "Russia"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Classics",
+        "gender3": "Russia"
     },
     {
         "title": "A Light in the Attic",
@@ -3891,11 +3343,9 @@
         "valuation": 4.35,
         "pages": 176,
         "link": "https://www.goodreads.com//book/show/30118.A_Light_in_the_Attic",
-        "genders": [
-            "Poetry",
-            "Childrens",
-            "Classics"
-        ]
+        "gender1": "Poetry",
+        "gender2": "Childrens",
+        "gender3": "Classics"
     },
     {
         "title": "Ulysses",
@@ -3905,11 +3355,9 @@
         "valuation": 3.75,
         "pages": 783,
         "link": "https://www.goodreads.com//book/show/338798.Ulysses",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Literature"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Literature"
     },
     {
         "title": "Lonesome Dove",
@@ -3919,11 +3367,9 @@
         "valuation": 4.52,
         "pages": 960,
         "link": "https://www.goodreads.com//book/show/256008.Lonesome_Dove",
-        "genders": [
-            "Fiction",
-            "Historical Fiction",
-            "Westerns"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Historical Fiction",
+        "gender3": "Westerns"
     },
     {
         "title": "The Jungle",
@@ -3933,11 +3379,9 @@
         "valuation": 3.76,
         "pages": 335,
         "link": "https://www.goodreads.com//book/show/41681.The_Jungle",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Historical Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Phantom of the Opera",
@@ -3947,11 +3391,9 @@
         "valuation": 3.96,
         "pages": 360,
         "link": "https://www.goodreads.com//book/show/480204.The_Phantom_of_the_Opera",
-        "genders": [
-            "Fiction",
-            "Horror",
-            "Romance"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Horror",
+        "gender3": "Romance"
     },
     {
         "title": "Breaking Dawn",
@@ -3961,11 +3403,9 @@
         "valuation": 3.73,
         "pages": 756,
         "link": "https://www.goodreads.com//book/show/1162543.Breaking_Dawn",
-        "genders": [
-            "Fantasy",
-            "Young Adult",
-            "Romance"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Young Adult",
+        "gender3": "Romance"
     },
     {
         "title": "Nickel and Dimed",
@@ -3975,25 +3415,9 @@
         "valuation": 3.65,
         "pages": 240,
         "link": "https://www.goodreads.com//book/show/1869.Nickel_and_Dimed",
-        "genders": [
-            "Nonfiction",
-            "Sociology",
-            "Politics"
-        ]
-    },
-    {
-        "title": "Paradise Lost",
-        "author": "John Milton",
-        "published": "January 1, 1667",
-        "price": 0.99,
-        "valuation": 3.84,
-        "pages": 453,
-        "link": "https://www.goodreads.com//book/show/15997.Paradise_Lost",
-        "genders": [
-            "Classics",
-            "Poetry",
-            "Fiction"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Sociology",
+        "gender3": "Politics"
     },
     {
         "title": "The Name of the Wind",
@@ -4003,11 +3427,21 @@
         "valuation": 4.52,
         "pages": 662,
         "link": "https://www.goodreads.com//book/show/186074.The_Name_of_the_Wind",
-        "genders": [
-            "Fantasy",
-            "Fiction",
-            "Epic Fantasy"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Fiction",
+        "gender3": "Epic Fantasy"
+    },
+    {
+        "title": "Paradise Lost",
+        "author": "John Milton",
+        "published": "January 1, 1667",
+        "price": 0.99,
+        "valuation": 3.84,
+        "pages": 453,
+        "link": "https://www.goodreads.com//book/show/15997.Paradise_Lost",
+        "gender1": "Classics",
+        "gender2": "Poetry",
+        "gender3": "Fiction"
     },
     {
         "title": "Horton Hears a Who!",
@@ -4017,11 +3451,9 @@
         "valuation": 4.21,
         "pages": 64,
         "link": "https://www.goodreads.com//book/show/7779.Horton_Hears_a_Who_",
-        "genders": [
-            "Childrens",
-            "Picture Books",
-            "Fiction"
-        ]
+        "gender1": "Childrens",
+        "gender2": "Picture Books",
+        "gender3": "Fiction"
     },
     {
         "title": "The God of Small Things",
@@ -4031,11 +3463,9 @@
         "valuation": 3.95,
         "pages": 321,
         "link": "https://www.goodreads.com//book/show/9777.The_God_of_Small_Things",
-        "genders": [
-            "Fiction",
-            "India",
-            "Historical Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "India",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Green Mile",
@@ -4045,11 +3475,9 @@
         "valuation": 4.47,
         "pages": 592,
         "link": "https://www.goodreads.com//book/show/11566.The_Green_Mile",
-        "genders": [
-            "Horror",
-            "Fiction",
-            "Fantasy"
-        ]
+        "gender1": "Horror",
+        "gender2": "Fiction",
+        "gender3": "Fantasy"
     },
     {
         "title": "Are You There God? It's Me, Margaret",
@@ -4059,11 +3487,9 @@
         "valuation": 3.94,
         "pages": 149,
         "link": "https://www.goodreads.com//book/show/37732.Are_You_There_God_It_s_Me_Margaret",
-        "genders": [
-            "Young Adult",
-            "Fiction",
-            "Childrens"
-        ]
+        "gender1": "Young Adult",
+        "gender2": "Fiction",
+        "gender3": "Childrens"
     },
     {
         "title": "All Creatures Great and Small / All Things Bright and Beautiful",
@@ -4073,11 +3499,9 @@
         "valuation": 4.32,
         "pages": 820,
         "link": "https://www.goodreads.com//book/show/32087.All_Creatures_Great_and_Small_All_Things_Bright_and_Beautiful",
-        "genders": [
-            "Nonfiction",
-            "Classics",
-            "Animals"
-        ]
+        "gender1": "Nonfiction",
+        "gender2": "Classics",
+        "gender3": "Animals"
     },
     {
         "title": "Treasure Island",
@@ -4087,11 +3511,9 @@
         "valuation": 3.84,
         "pages": 311,
         "link": "https://www.goodreads.com//book/show/295.Treasure_Island",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Adventure"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Adventure"
     },
     {
         "title": "The House of the Spirits",
@@ -4101,11 +3523,9 @@
         "valuation": 4.27,
         "pages": 448,
         "link": "https://www.goodreads.com//book/show/9328.The_House_of_the_Spirits",
-        "genders": [
-            "Fiction",
-            "Magical Realism",
-            "Historical Fiction"
-        ]
+        "gender1": "Fiction",
+        "gender2": "Magical Realism",
+        "gender3": "Historical Fiction"
     },
     {
         "title": "The Shining",
@@ -4115,11 +3535,9 @@
         "valuation": 4.26,
         "pages": 497,
         "link": "https://www.goodreads.com//book/show/11588.The_Shining",
-        "genders": [
-            "Horror",
-            "Fiction",
-            "Thriller"
-        ]
+        "gender1": "Horror",
+        "gender2": "Fiction",
+        "gender3": "Thriller"
     },
     {
         "title": "The Iliad / The Odyssey",
@@ -4129,11 +3547,9 @@
         "valuation": 4.06,
         "pages": 1556,
         "link": "https://www.goodreads.com//book/show/1375.The_Iliad_The_Odyssey",
-        "genders": [
-            "Classics",
-            "Fiction",
-            "Poetry"
-        ]
+        "gender1": "Classics",
+        "gender2": "Fiction",
+        "gender3": "Poetry"
     },
     {
         "title": "V for Vendetta",
@@ -4143,11 +3559,9 @@
         "valuation": 4.26,
         "pages": 296,
         "link": "https://www.goodreads.com//book/show/5805.V_for_Vendetta",
-        "genders": [
-            "Graphic Novels",
-            "Comics",
-            "Fiction"
-        ]
+        "gender1": "Graphic Novels",
+        "gender2": "Comics",
+        "gender3": "Fiction"
     },
     {
         "title": "The Foundation Trilogy",
@@ -4157,11 +3571,9 @@
         "valuation": 4.41,
         "pages": 679,
         "link": "https://www.goodreads.com//book/show/46654.The_Foundation_Trilogy",
-        "genders": [
-            "Science Fiction",
-            "Fiction",
-            "Classics"
-        ]
+        "gender1": "Science Fiction",
+        "gender2": "Fiction",
+        "gender3": "Classics"
     },
     {
         "title": "The Complete Works",
@@ -4171,11 +3583,9 @@
         "valuation": 4.47,
         "pages": 1229,
         "link": "https://www.goodreads.com//book/show/569564.The_Complete_Works",
-        "genders": [
-            "Classics",
-            "Poetry",
-            "Fiction"
-        ]
+        "gender1": "Classics",
+        "gender2": "Poetry",
+        "gender3": "Fiction"
     },
     {
         "title": "New Moon",
@@ -4185,10 +3595,8 @@
         "valuation": 3.59,
         "pages": 563,
         "link": "https://www.goodreads.com//book/show/49041.New_Moon",
-        "genders": [
-            "Fantasy",
-            "Young Adult",
-            "Romance"
-        ]
+        "gender1": "Fantasy",
+        "gender2": "Young Adult",
+        "gender3": "Romance"
     }
 ]
