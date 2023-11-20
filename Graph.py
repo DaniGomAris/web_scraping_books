@@ -1,12 +1,12 @@
 class Graph:
+    
     def __init__(self, directed: bool = True):
         self.adj_list: dict = {} 
         self.directed: bool = directed
 
-
     def add_vertex(self, node_label, node_type=None):
         """
-        Agrega un nuevo nodo al grafo
+        Agrega un nuevo vertice al grafo
         """
         if node_label not in self.adj_list:
             # Los tipos de los nodo serán: Title, Link, Author, Price, Valuation, Pages, Published, genre1, genre2, genre3
@@ -23,7 +23,6 @@ class Graph:
             }
             '''
 
-
     def get_neighbors(self, node_label) -> list:
         """
         Obtiene los vecinos de un nodo en el grafo
@@ -32,7 +31,6 @@ class Graph:
             return self.adj_list[node_label]['neighbors']
         else:
             return []
-
 
     def add_edge(self, v1, v2):
         """
@@ -49,7 +47,6 @@ class Graph:
         if not self.directed:
             # Si el grafo no es dirigido, entonces tambien le agregaremos a v2 de vecino v1 
             self.adj_list[v2]['neighbors'].append(v1)
-
 
     def DFS(self, start, visited=None) -> list:
         """
@@ -68,7 +65,6 @@ class Graph:
                     self.DFS(n, visited)
         return visited 
     
-
     def print_graph(self):
         """
         Imprime la información del grafo en la consola

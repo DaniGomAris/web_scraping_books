@@ -1,13 +1,16 @@
-from Book import Book 
-
 from bs4 import BeautifulSoup
+from dateutil import parser
 import requests
 import json
 import re
 
+from Book import Book 
+
+
 class Scraping:
     
-    def scrapper_books_info(self, book_url) -> Book:
+    @staticmethod
+    def scrapper_books_info(book_url) -> Book:
         """
         Extrae la información de un libro a partir de su URL
         """
@@ -27,8 +30,8 @@ class Scraping:
         publication_scraping = soup.find('p', {'data-testid': 'publicationInfo'})
         published = None
         if publication_scraping:
-            match = re.search(r'First published (.+)', publication_scraping.text)
-            published = match.group(1) if match else None
+            published_text = re.search(r'First published (.+)', publication_scraping.text).group(1)
+            published = parser.parse(published_text).year
 
         # Scraping precio
         price_scraping = soup.find('button', {'class': 'Button--buy'})
@@ -60,8 +63,8 @@ class Scraping:
         book = Book(title, book_url, author, price, rating, pages, published, genre1, genre2, genre3)
         return book
 
-
-    def scrapper_books_page(self) -> list:
+    @staticmethod
+    def scrapper_books_page() -> list:
         """
         Scraping de la información de libros en varias paginas de Goodreads
         """
@@ -79,10 +82,17 @@ class Scraping:
             for row in rows:
                 book_link = row.find('a', class_="bookTitle")  
                 href = "https://www.goodreads.com/" + book_link['href']
-                book_info = self.scrapper_books_info(href)
+                book_info = Scraping.scrapper_books_info(href)
                 books_list.append(book_info)
                 print(book_info)
 
+        return books_list
+
+    @staticmethod
+    def create_json_file(books_list):
+        """
+        Crea un archivo JSON con la información de los libros
+        """
         # Crear una lista de diccionarios con la información de los libros
         books_data = []
         for book in books_list:
@@ -111,4 +121,5 @@ class Scraping:
 # Para iniciar el scrapping
 if __name__ == "__main__":
     scraper = Scraping()
-    scraper.scrapper_books_page()
+    books_list = scraper.scrapper_books_page()
+    scraper.create_json_file(books_list)

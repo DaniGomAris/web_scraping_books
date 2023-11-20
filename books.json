@@ -2,7 +2,7 @@
     {
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",
-        "published": "July 11, 1960",
+        "published": 1960,
         "price": null,
         "valuation": 4.26,
         "pages": 323,
@@ -14,7 +14,7 @@
     {
         "title": "Harry Potter and the Philosopher’s Stone",
         "author": "J.K. Rowling",
-        "published": "June 26, 1997",
+        "published": 1997,
         "price": null,
         "valuation": 4.47,
         "pages": 223,
@@ -26,7 +26,7 @@
     {
         "title": "Pride and Prejudice",
         "author": "Jane Austen",
-        "published": "January 28, 1813",
+        "published": 1813,
         "price": 0.99,
         "valuation": 4.28,
         "pages": 279,
@@ -38,7 +38,7 @@
     {
         "title": "The Diary of a Young Girl",
         "author": "Anne Frank",
-        "published": "January 1, 1947",
+        "published": 1947,
         "price": 2.51,
         "valuation": 4.19,
         "pages": 283,
@@ -50,7 +50,7 @@
     {
         "title": "Animal Farm",
         "author": "George Orwell",
-        "published": "August 17, 1945",
+        "published": 1945,
         "price": 0.0,
         "valuation": 3.98,
         "pages": 128,
@@ -62,7 +62,7 @@
     {
         "title": "The Little Prince",
         "author": "Antoine de Saint-Exupéry",
-        "published": "April 6, 1943",
+        "published": 1943,
         "price": 2.99,
         "valuation": 4.32,
         "pages": 96,
@@ -74,7 +74,7 @@
     {
         "title": "1984",
         "author": "George Orwell",
-        "published": "June 8, 1949",
+        "published": 1949,
         "price": 0.0,
         "valuation": 4.19,
         "pages": 368,
@@ -86,7 +86,7 @@
     {
         "title": "The Great Gatsby",
         "author": "F. Scott Fitzgerald",
-        "published": "April 10, 1925",
+        "published": 1925,
         "price": 1.99,
         "valuation": 3.93,
         "pages": 180,
@@ -98,7 +98,7 @@
     {
         "title": "The Catcher in the Rye",
         "author": "J.D. Salinger",
-        "published": "July 16, 1951",
+        "published": 1951,
         "price": 9.99,
         "valuation": 3.8,
         "pages": 234,
@@ -110,7 +110,7 @@
     {
         "title": "The Lord of the Rings",
         "author": "J.R.R. Tolkien",
-        "published": "October 20, 1955",
+        "published": 1955,
         "price": 15.99,
         "valuation": 4.52,
         "pages": 1216,
@@ -122,7 +122,7 @@
     {
         "title": "The Book Thief",
         "author": "Markus Zusak",
-        "published": "March 1, 2005",
+        "published": 2005,
         "price": 10.99,
         "valuation": 4.39,
         "pages": 592,
@@ -134,7 +134,7 @@
     {
         "title": "Jane Eyre",
         "author": "Charlotte Brontë",
-        "published": "October 16, 1847",
+        "published": 1847,
         "price": 3.53,
         "valuation": 4.15,
         "pages": 532,
@@ -146,7 +146,7 @@
     {
         "title": "The Chronicles of Narnia",
         "author": "C.S. Lewis",
-        "published": "January 1, 1956",
+        "published": 1956,
         "price": 39.99,
         "valuation": 4.27,
         "pages": 767,
@@ -158,7 +158,7 @@
     {
         "title": "Lord of the Flies",
         "author": "William Golding",
-        "published": "September 17, 1954",
+        "published": 1954,
         "price": 9.99,
         "valuation": 3.69,
         "pages": 182,
@@ -170,7 +170,7 @@
     {
         "title": "Romeo and Juliet",
         "author": "William Shakespeare",
-        "published": "January 1, 1597",
+        "published": 1597,
         "price": 0.99,
         "valuation": 3.74,
         "pages": 281,
@@ -182,7 +182,7 @@
     {
         "title": "Harry Potter and the Deathly Hallows",
         "author": "J.K. Rowling",
-        "published": "July 21, 2007",
+        "published": 2007,
         "price": null,
         "valuation": 4.62,
         "pages": 759,
@@ -194,7 +194,7 @@
     {
         "title": "The Kite Runner",
         "author": "Khaled Hosseini",
-        "published": "May 29, 2003",
+        "published": 2003,
         "price": 13.99,
         "valuation": 4.34,
         "pages": 371,
@@ -206,7 +206,7 @@
     {
         "title": "The Giver",
         "author": "Lois Lowry",
-        "published": "April 26, 1993",
+        "published": 1993,
         "price": null,
         "valuation": 4.12,
         "pages": 208,
@@ -218,7 +218,7 @@
     {
         "title": "The Giving Tree",
         "author": "Shel Silverstein",
-        "published": "January 1, 1964",
+        "published": 1964,
         "price": 0.0,
         "valuation": 4.38,
         "pages": 64,
@@ -230,7 +230,7 @@
     {
         "title": "Charlotte's Web",
         "author": "E.B. White",
-        "published": "October 15, 1952",
+        "published": 1952,
         "price": 7.99,
         "valuation": 4.2,
         "pages": 184,
@@ -242,7 +242,7 @@
     {
         "title": "Little Women",
         "author": "Louisa May Alcott",
-        "published": "January 1, 1868",
+        "published": 1868,
         "price": 2.99,
         "valuation": 4.14,
         "pages": 449,
@@ -254,7 +254,7 @@
     {
         "title": "The Hunger Games",
         "author": "Suzanne Collins",
-        "published": "September 14, 2008",
+        "published": 2008,
         "price": null,
         "valuation": 4.33,
         "pages": 374,
@@ -266,7 +266,7 @@
     {
         "title": "The Hobbit",
         "author": "J.R.R. Tolkien",
-        "published": "September 21, 1937",
+        "published": 1937,
         "price": 0.0,
         "valuation": 4.28,
         "pages": 366,
@@ -278,7 +278,7 @@
     {
         "title": "Of Mice and Men",
         "author": "John Steinbeck",
-        "published": "February 25, 1937",
+        "published": 1937,
         "price": 8.99,
         "valuation": 3.88,
         "pages": 107,
@@ -290,7 +290,7 @@
     {
         "title": "Fahrenheit 451",
         "author": "Ray Bradbury",
-        "published": "October 19, 1953",
+        "published": 1953,
         "price": 12.99,
         "valuation": 3.97,
         "pages": 194,
@@ -302,7 +302,7 @@
     {
         "title": "Green Eggs and Ham",
         "author": "Dr. Seuss",
-        "published": "June 1, 1960",
+        "published": 1960,
         "price": null,
         "valuation": 4.31,
         "pages": 64,
@@ -314,7 +314,7 @@
     {
         "title": "Harry Potter and the Prisoner of Azkaban",
         "author": "J.K. Rowling",
-        "published": "July 8, 1999",
+        "published": 1999,
         "price": null,
         "valuation": 4.58,
         "pages": 435,
@@ -326,7 +326,7 @@
     {
         "title": "Wuthering Heights",
         "author": "Emily Brontë",
-        "published": "December 1, 1847",
+        "published": 1847,
         "price": 3.22,
         "valuation": 3.89,
         "pages": 464,
@@ -338,7 +338,7 @@
     {
         "title": "Alice's Adventures in Wonderland / Through the Looking-Glass",
         "author": "Lewis Carroll",
-        "published": "December 27, 1871",
+        "published": 1871,
         "price": 0.99,
         "valuation": 4.06,
         "pages": 239,
@@ -350,7 +350,7 @@
     {
         "title": "The Picture of Dorian Gray",
         "author": "Oscar Wilde",
-        "published": "June 1, 1890",
+        "published": 1890,
         "price": 1.99,
         "valuation": 4.12,
         "pages": 272,
@@ -362,7 +362,7 @@
     {
         "title": "Night",
         "author": "Elie Wiesel",
-        "published": "January 1, 1956",
+        "published": 1956,
         "price": null,
         "valuation": 4.37,
         "pages": 115,
@@ -374,7 +374,7 @@
     {
         "title": "Gone with the Wind",
         "author": "Margaret Mitchell",
-        "published": "June 30, 1936",
+        "published": 1936,
         "price": 6.99,
         "valuation": 4.31,
         "pages": 1037,
@@ -386,7 +386,7 @@
     {
         "title": "The Holy Bible: King James Version",
         "author": "Anonymous",
-        "published": "January 1, 1569",
+        "published": 1569,
         "price": 0.0,
         "valuation": 4.43,
         "pages": 1590,
@@ -398,7 +398,7 @@
     {
         "title": "Harry Potter and the Goblet of Fire",
         "author": "J.K. Rowling",
-        "published": "July 8, 2000",
+        "published": 2000,
         "price": null,
         "valuation": 4.56,
         "pages": 734,
@@ -410,7 +410,7 @@
     {
         "title": "The Hitchhiker's Guide to the Galaxy",
         "author": "Douglas Adams",
-        "published": "October 12, 1979",
+        "published": 1979,
         "price": null,
         "valuation": 4.23,
         "pages": 193,
@@ -422,7 +422,7 @@
     {
         "title": "Hamlet",
         "author": "William Shakespeare",
-        "published": "January 1, 1601",
+        "published": 1601,
         "price": 3.99,
         "valuation": 4.02,
         "pages": 289,
@@ -434,7 +434,7 @@
     {
         "title": "Harry Potter and the Half-Blood Prince",
         "author": "J.K. Rowling",
-        "published": "July 16, 2005",
+        "published": 2005,
         "price": null,
         "valuation": 4.58,
         "pages": 652,
@@ -446,7 +446,7 @@
     {
         "title": "The Adventures of Huckleberry Finn",
         "author": "Mark Twain",
-        "published": "February 18, 1884",
+        "published": 1884,
         "price": null,
         "valuation": 3.83,
         "pages": 327,
@@ -458,7 +458,7 @@
     {
         "title": "Tolkien On Fairy-stories",
         "author": "J.R.R. Tolkien",
-        "published": "July 1, 2008",
+        "published": 2008,
         "price": null,
         "valuation": 4.32,
         "pages": 320,
@@ -470,7 +470,7 @@
     {
         "title": "Les Misérables",
         "author": "Victor Hugo",
-        "published": "January 1, 1862",
+        "published": 1862,
         "price": 9.99,
         "valuation": 4.2,
         "pages": 1463,
@@ -482,7 +482,7 @@
     {
         "title": "The Alchemist",
         "author": "Paulo Coelho",
-        "published": "January 1, 1988",
+        "published": 1988,
         "price": 14.99,
         "valuation": 3.9,
         "pages": 182,
@@ -494,7 +494,7 @@
     {
         "title": "Brave New World / Brave New World Revisited",
         "author": "Aldous Huxley",
-        "published": "January 1, 1958",
+        "published": 1958,
         "price": 14.24,
         "valuation": 4.16,
         "pages": 340,
@@ -506,7 +506,7 @@
     {
         "title": "Crime and Punishment",
         "author": "Fyodor Dostoevsky",
-        "published": "January 1, 1866",
+        "published": 1866,
         "price": 14.99,
         "valuation": 4.26,
         "pages": 671,
@@ -518,7 +518,7 @@
     {
         "title": "The Help",
         "author": "Kathryn Stockett",
-        "published": "February 10, 2009",
+        "published": 2009,
         "price": 14.99,
         "valuation": 4.47,
         "pages": 464,
@@ -530,7 +530,7 @@
     {
         "title": "The Secret Garden",
         "author": "Frances Hodgson Burnett",
-        "published": "August 1, 1911",
+        "published": 1911,
         "price": null,
         "valuation": 4.15,
         "pages": 331,
@@ -542,7 +542,7 @@
     {
         "title": "Memoirs of a Geisha",
         "author": "Arthur Golden",
-        "published": "January 1, 1997",
+        "published": 1997,
         "price": 12.99,
         "valuation": 4.15,
         "pages": 503,
@@ -554,7 +554,7 @@
     {
         "title": "The Lion, the Witch and the Wardrobe",
         "author": "C.S. Lewis",
-        "published": "October 16, 1950",
+        "published": 1950,
         "price": null,
         "valuation": 4.23,
         "pages": 206,
@@ -566,7 +566,7 @@
     {
         "title": "The Odyssey",
         "author": "Homer",
-        "published": "January 1, 701",
+        "published": 701,
         "price": 5.99,
         "valuation": 3.8,
         "pages": 541,
@@ -578,7 +578,7 @@
     {
         "title": "A Christmas Carol",
         "author": "Charles Dickens",
-        "published": "December 17, 1843",
+        "published": 1843,
         "price": null,
         "valuation": 4.07,
         "pages": 184,
@@ -590,7 +590,7 @@
     {
         "title": "The Cat in the Hat",
         "author": "Dr. Seuss",
-        "published": "March 12, 1957",
+        "published": 1957,
         "price": null,
         "valuation": 4.18,
         "pages": 61,
@@ -602,7 +602,7 @@
     {
         "title": "The Outsiders",
         "author": "S.E. Hinton",
-        "published": "April 24, 1967",
+        "published": 1967,
         "price": 8.99,
         "valuation": 4.12,
         "pages": 192,
@@ -614,7 +614,7 @@
     {
         "title": "One Hundred Years of Solitude",
         "author": "Gabriel García Márquez",
-        "published": "May 1, 1967",
+        "published": 1967,
         "price": 30.0,
         "valuation": 4.11,
         "pages": 417,
@@ -626,7 +626,7 @@
     {
         "title": "A Thousand Splendid Suns",
         "author": "Khaled Hosseini",
-        "published": "May 1, 2007",
+        "published": 2007,
         "price": 12.99,
         "valuation": 4.43,
         "pages": 372,
@@ -638,7 +638,7 @@
     {
         "title": "The Grapes of Wrath",
         "author": "John Steinbeck",
-        "published": "April 14, 1939",
+        "published": 1939,
         "price": 13.99,
         "valuation": 4.0,
         "pages": 479,
@@ -650,7 +650,7 @@
     {
         "title": "Anne of Green Gables",
         "author": "L.M. Montgomery",
-        "published": "January 1, 1908",
+        "published": 1908,
         "price": 1.99,
         "valuation": 4.3,
         "pages": 320,
@@ -662,7 +662,7 @@
     {
         "title": "Where the Sidewalk Ends",
         "author": "Shel Silverstein",
-        "published": "January 1, 1974",
+        "published": 1974,
         "price": 0.0,
         "valuation": 4.33,
         "pages": 176,
@@ -674,7 +674,7 @@
     {
         "title": "The Count of Monte Cristo",
         "author": "Alexandre Dumas",
-        "published": "August 28, 1844",
+        "published": 1844,
         "price": 1.99,
         "valuation": 4.29,
         "pages": 1276,
@@ -686,7 +686,7 @@
     {
         "title": "Ender’s Game",
         "author": "Orson Scott Card",
-        "published": "January 15, 1985",
+        "published": 1985,
         "price": null,
         "valuation": 4.31,
         "pages": 324,
@@ -698,7 +698,7 @@
     {
         "title": "Where the Wild Things Are",
         "author": "Maurice Sendak",
-        "published": "April 9, 1963",
+        "published": 1963,
         "price": null,
         "valuation": 4.24,
         "pages": 38,
@@ -710,7 +710,7 @@
     {
         "title": "The Color Purple",
         "author": "Alice Walker",
-        "published": "June 1, 1982",
+        "published": 1982,
         "price": null,
         "valuation": 4.26,
         "pages": 304,
@@ -722,7 +722,7 @@
     {
         "title": "The Adventures of Tom Sawyer",
         "author": "Mark Twain",
-        "published": "June 1, 1876",
+        "published": 1876,
         "price": 0.99,
         "valuation": 3.92,
         "pages": 244,
@@ -734,7 +734,7 @@
     {
         "title": "A Tale of Two Cities",
         "author": "Charles Dickens",
-        "published": "November 26, 1859",
+        "published": 1859,
         "price": 3.0,
         "valuation": 3.87,
         "pages": 489,
@@ -746,7 +746,7 @@
     {
         "title": "Life of Pi",
         "author": "Yann Martel",
-        "published": "September 11, 2001",
+        "published": 2001,
         "price": 0.0,
         "valuation": 3.93,
         "pages": 460,
@@ -758,7 +758,7 @@
     {
         "title": "The Handmaid’s Tale",
         "author": "Margaret Atwood",
-        "published": "January 1, 1985",
+        "published": 1985,
         "price": null,
         "valuation": 4.13,
         "pages": 314,
@@ -770,7 +770,7 @@
     {
         "title": "One Flew Over the Cuckoo's Nest",
         "author": "Ken Kesey",
-        "published": "January 1, 1962",
+        "published": 1962,
         "price": 9.99,
         "valuation": 4.2,
         "pages": 325,
@@ -782,7 +782,7 @@
     {
         "title": "Frankenstein: The 1818 Text",
         "author": "Mary Wollstonecraft Shelley",
-        "published": "January 1, 1818",
+        "published": 1818,
         "price": 3.6,
         "valuation": 3.86,
         "pages": 260,
@@ -794,7 +794,7 @@
     {
         "title": "Oh, the Places You'll Go!",
         "author": "Dr. Seuss",
-        "published": "January 22, 1990",
+        "published": 1990,
         "price": null,
         "valuation": 4.36,
         "pages": 44,
@@ -806,7 +806,7 @@
     {
         "title": "Anna Karenina",
         "author": "Leo Tolstoy",
-        "published": "January 1, 1878",
+        "published": 1878,
         "price": 0.99,
         "valuation": 4.09,
         "pages": 964,
@@ -818,7 +818,7 @@
     {
         "title": "Tuesdays with Morrie",
         "author": "Mitch Albom",
-        "published": "August 18, 1997",
+        "published": 1997,
         "price": 11.99,
         "valuation": 4.16,
         "pages": 210,
@@ -830,7 +830,7 @@
     {
         "title": "Winnie-the-Pooh",
         "author": "A.A. Milne",
-        "published": "October 14, 1926",
+        "published": 1926,
         "price": null,
         "valuation": 4.35,
         "pages": 161,
@@ -842,7 +842,7 @@
     {
         "title": "Slaughterhouse-Five",
         "author": "Kurt Vonnegut Jr.",
-        "published": "March 31, 1969",
+        "published": 1969,
         "price": 9.99,
         "valuation": 4.09,
         "pages": 275,
@@ -854,7 +854,7 @@
     {
         "title": "The Old Man and the Sea",
         "author": "Ernest Hemingway",
-        "published": "January 1, 1952",
+        "published": 1952,
         "price": 10.99,
         "valuation": 3.8,
         "pages": 96,
@@ -866,7 +866,7 @@
     {
         "title": "Catch-22",
         "author": "Joseph Heller",
-        "published": "November 10, 1961",
+        "published": 1961,
         "price": null,
         "valuation": 3.99,
         "pages": 453,
@@ -878,7 +878,7 @@
     {
         "title": "The Scarlet Letter",
         "author": "Nathaniel Hawthorne",
-        "published": "March 16, 1850",
+        "published": 1850,
         "price": 3.65,
         "valuation": 3.43,
         "pages": 279,
@@ -890,7 +890,7 @@
     {
         "title": "Macbeth",
         "author": "William Shakespeare",
-        "published": "January 1, 1623",
+        "published": 1623,
         "price": 2.99,
         "valuation": 3.9,
         "pages": 249,
@@ -902,7 +902,7 @@
     {
         "title": "The Fellowship of the Ring",
         "author": "J.R.R. Tolkien",
-        "published": "July 29, 1954",
+        "published": 1954,
         "price": null,
         "valuation": 4.39,
         "pages": 398,
@@ -914,7 +914,7 @@
     {
         "title": "Twilight",
         "author": "Stephenie Meyer",
-        "published": "October 5, 2005",
+        "published": 2005,
         "price": null,
         "valuation": 3.64,
         "pages": 498,
@@ -926,7 +926,7 @@
     {
         "title": "Lolita",
         "author": "Vladimir Nabokov",
-        "published": "September 1, 1955",
+        "published": 1955,
         "price": 12.99,
         "valuation": 3.88,
         "pages": 368,
@@ -938,7 +938,7 @@
     {
         "title": "The Metamorphosis",
         "author": "Franz Kafka",
-        "published": "January 1, 1915",
+        "published": 1915,
         "price": 1.99,
         "valuation": 3.85,
         "pages": 201,
@@ -950,7 +950,7 @@
     {
         "title": "The Stranger",
         "author": "Albert Camus",
-        "published": "May 19, 1942",
+        "published": 1942,
         "price": 8.99,
         "valuation": 4.02,
         "pages": 159,
@@ -962,7 +962,7 @@
     {
         "title": "Siddhartha",
         "author": "Hermann Hesse",
-        "published": "January 1, 1922",
+        "published": 1922,
         "price": 3.99,
         "valuation": 4.06,
         "pages": 152,
@@ -974,7 +974,7 @@
     {
         "title": "The Time Traveler's Wife",
         "author": "Audrey Niffenegger",
-        "published": "January 1, 2003",
+        "published": 2003,
         "price": 8.99,
         "valuation": 3.99,
         "pages": 537,
@@ -986,7 +986,7 @@
     {
         "title": "Goodnight Moon",
         "author": "Margaret Wise Brown",
-        "published": "September 3, 1947",
+        "published": 1947,
         "price": 0.0,
         "valuation": 4.3,
         "pages": 32,
@@ -998,7 +998,7 @@
     {
         "title": "Harry Potter and the Chamber of Secrets",
         "author": "J.K. Rowling",
-        "published": "July 2, 1998",
+        "published": 1998,
         "price": null,
         "valuation": 4.43,
         "pages": 341,
@@ -1010,7 +1010,7 @@
     {
         "title": "War and Peace",
         "author": "Leo Tolstoy",
-        "published": "January 1, 1867",
+        "published": 1867,
         "price": 0.99,
         "valuation": 4.16,
         "pages": 1392,
@@ -1022,7 +1022,7 @@
     {
         "title": "A Tree Grows in Brooklyn",
         "author": "Betty  Smith",
-        "published": "August 18, 1943",
+        "published": 1943,
         "price": 14.99,
         "valuation": 4.29,
         "pages": 496,
@@ -1034,7 +1034,7 @@
     {
         "title": "The Little House Collection",
         "author": "Laura Ingalls Wilder",
-        "published": "January 1, 1971",
+        "published": 1971,
         "price": null,
         "valuation": 4.35,
         "pages": 2700,
@@ -1046,7 +1046,7 @@
     {
         "title": "A Clockwork Orange",
         "author": "Anthony Burgess",
-        "published": "January 1, 1962",
+        "published": 1962,
         "price": 6.99,
         "valuation": 4.0,
         "pages": 240,
@@ -1058,7 +1058,7 @@
     {
         "title": "All Quiet on the Western Front",
         "author": "Erich Maria Remarque",
-        "published": "January 1, 1928",
+        "published": 1928,
         "price": 10.99,
         "valuation": 4.06,
         "pages": 296,
@@ -1070,7 +1070,7 @@
     {
         "title": "The Stand",
         "author": "Stephen King",
-        "published": "January 1, 1978",
+        "published": 1978,
         "price": 9.99,
         "valuation": 4.35,
         "pages": 1152,
@@ -1082,7 +1082,7 @@
     {
         "title": "Don Quixote",
         "author": "Miguel de Cervantes Saavedra",
-        "published": "January 1, 1605",
+        "published": 1605,
         "price": 2.99,
         "valuation": 3.89,
         "pages": 1023,
@@ -1094,7 +1094,7 @@
     {
         "title": "Uncle Tom's Cabin",
         "author": "Harriet Beecher Stowe",
-        "published": "January 1, 1852",
+        "published": 1852,
         "price": 0.0,
         "valuation": 3.9,
         "pages": 438,
@@ -1106,7 +1106,7 @@
     {
         "title": "القرآن الكريم",
         "author": "Anonymous",
-        "published": "March 18, 632",
+        "published": 632,
         "price": 9.99,
         "valuation": 4.38,
         "pages": 604,
@@ -1118,7 +1118,7 @@
     {
         "title": "Atlas Shrugged",
         "author": "Ayn Rand",
-        "published": "October 10, 1957",
+        "published": 1957,
         "price": 9.99,
         "valuation": 3.69,
         "pages": 1168,
@@ -1130,7 +1130,7 @@
     {
         "title": "The Brothers Karamazov",
         "author": "Fyodor Dostoevsky",
-        "published": "January 1, 1880",
+        "published": 1880,
         "price": 3.99,
         "valuation": 4.36,
         "pages": 796,
@@ -1142,7 +1142,7 @@
     {
         "title": "The Poisonwood Bible",
         "author": "Barbara Kingsolver",
-        "published": "September 24, 1998",
+        "published": 1998,
         "price": 14.49,
         "valuation": 4.09,
         "pages": 546,
@@ -1154,7 +1154,7 @@
     {
         "title": "I Know Why the Caged Bird Sings",
         "author": "Maya Angelou",
-        "published": "January 1, 1969",
+        "published": 1969,
         "price": 4.99,
         "valuation": 4.29,
         "pages": 289,
@@ -1166,7 +1166,7 @@
     {
         "title": "Moby-Dick or, The Whale",
         "author": "Herman Melville",
-        "published": "October 18, 1851",
+        "published": 1851,
         "price": 0.99,
         "valuation": 3.54,
         "pages": 654,
@@ -1178,7 +1178,7 @@
     {
         "title": "The Book of Mormon: Another Testament of Jesus Christ",
         "author": "Joseph Smith Jr.",
-        "published": "December 31, 2009",
+        "published": 2009,
         "price": 3.0,
         "valuation": 4.25,
         "pages": 531,
@@ -1190,7 +1190,7 @@
     {
         "title": "The Da Vinci Code",
         "author": "Dan Brown",
-        "published": "March 18, 2003",
+        "published": 2003,
         "price": null,
         "valuation": 3.91,
         "pages": 489,
@@ -1202,7 +1202,7 @@
     {
         "title": "Great Expectations",
         "author": "Charles Dickens",
-        "published": "December 1, 1860",
+        "published": 1860,
         "price": 4.99,
         "valuation": 3.79,
         "pages": 544,
@@ -1214,7 +1214,7 @@
     {
         "title": "The Good Earth",
         "author": "Pearl S. Buck",
-        "published": "March 2, 1931",
+        "published": 1931,
         "price": null,
         "valuation": 4.0,
         "pages": 418,
@@ -1226,7 +1226,7 @@
     {
         "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
         "author": "Corrie ten Boom",
-        "published": "January 1, 1971",
+        "published": 1971,
         "price": 8.35,
         "valuation": 4.45,
         "pages": 242,
@@ -1238,7 +1238,7 @@
     {
         "title": "Dracula",
         "author": "Bram Stoker",
-        "published": "May 26, 1897",
+        "published": 1897,
         "price": 2.99,
         "valuation": 4.01,
         "pages": 488,
@@ -1250,7 +1250,7 @@
     {
         "title": "A Wrinkle in Time",
         "author": "Madeleine L'Engle",
-        "published": "January 1, 1962",
+        "published": 1962,
         "price": null,
         "valuation": 3.98,
         "pages": 218,
@@ -1262,7 +1262,7 @@
     {
         "title": "The Fault in Our Stars",
         "author": "John Green",
-        "published": "January 10, 2012",
+        "published": 2012,
         "price": 9.99,
         "valuation": 4.14,
         "pages": 313,
@@ -1274,7 +1274,7 @@
     {
         "title": "Matilda",
         "author": "Roald Dahl",
-        "published": "October 1, 1988",
+        "published": 1988,
         "price": 7.99,
         "valuation": 4.33,
         "pages": 240,
@@ -1286,7 +1286,7 @@
     {
         "title": "The Perks of Being a Wallflower",
         "author": "Stephen Chbosky",
-        "published": "February 1, 1999",
+        "published": 1999,
         "price": 11.99,
         "valuation": 4.23,
         "pages": 213,
@@ -1298,7 +1298,7 @@
     {
         "title": "Brave New World",
         "author": "Aldous Huxley",
-        "published": "January 1, 1932",
+        "published": 1932,
         "price": 4.99,
         "valuation": 3.99,
         "pages": 268,
@@ -1310,7 +1310,7 @@
     {
         "title": "Sense and Sensibility",
         "author": "Jane Austen",
-        "published": "October 30, 1811",
+        "published": 1811,
         "price": 0.99,
         "valuation": 4.08,
         "pages": 409,
@@ -1322,7 +1322,7 @@
     {
         "title": "The Princess Bride",
         "author": "William Goldman",
-        "published": "September 1, 1973",
+        "published": 1973,
         "price": 0.0,
         "valuation": 4.27,
         "pages": 429,
@@ -1334,7 +1334,7 @@
     {
         "title": "The Iliad",
         "author": "Homer",
-        "published": "January 1, 701",
+        "published": 701,
         "price": 3.99,
         "valuation": 3.9,
         "pages": 704,
@@ -1346,7 +1346,7 @@
     {
         "title": "East of Eden",
         "author": "John Steinbeck",
-        "published": "January 1, 1952",
+        "published": 1952,
         "price": null,
         "valuation": 4.41,
         "pages": 601,
@@ -1358,7 +1358,7 @@
     {
         "title": "Where the Red Fern Grows",
         "author": "Wilson Rawls",
-        "published": "January 1, 1961",
+        "published": 1961,
         "price": null,
         "valuation": 4.11,
         "pages": 272,
@@ -1370,7 +1370,7 @@
     {
         "title": "The Tell-Tale Heart and Other Writings",
         "author": "Edgar Allan Poe",
-        "published": "January 1, 1843",
+        "published": 1843,
         "price": 1.99,
         "valuation": 4.19,
         "pages": 448,
@@ -1382,7 +1382,7 @@
     {
         "title": "Man's Search for Meaning",
         "author": "Viktor E. Frankl",
-        "published": "January 1, 1959",
+        "published": 1959,
         "price": 9.99,
         "valuation": 4.37,
         "pages": 165,
@@ -1394,7 +1394,7 @@
     {
         "title": "The Lorax",
         "author": "Dr. Seuss",
-        "published": "January 1, 1971",
+        "published": 1971,
         "price": null,
         "valuation": 4.34,
         "pages": 72,
@@ -1406,7 +1406,7 @@
     {
         "title": "Catching Fire",
         "author": "Suzanne Collins",
-        "published": "September 1, 2009",
+        "published": 2009,
         "price": null,
         "valuation": 4.32,
         "pages": 391,
@@ -1418,7 +1418,7 @@
     {
         "title": "A Game of Thrones",
         "author": "George R.R. Martin",
-        "published": "August 6, 1996",
+        "published": 1996,
         "price": null,
         "valuation": 4.44,
         "pages": 835,
@@ -1430,7 +1430,7 @@
     {
         "title": "The Curious Incident of the Dog in the Night-Time",
         "author": "Mark Haddon",
-        "published": "July 31, 2003",
+        "published": 2003,
         "price": 12.99,
         "valuation": 3.89,
         "pages": 226,
@@ -1442,7 +1442,7 @@
     {
         "title": "The Declaration of Independence / The Constitution of the United States",
         "author": "Founding Fathers",
-        "published": "January 1, 1776",
+        "published": 1776,
         "price": 1.99,
         "valuation": 4.44,
         "pages": 112,
@@ -1454,7 +1454,7 @@
     {
         "title": "Watership Down",
         "author": "Richard  Adams",
-        "published": "November 1, 1972",
+        "published": 1972,
         "price": null,
         "valuation": 4.08,
         "pages": 478,
@@ -1466,7 +1466,7 @@
     {
         "title": "The Bell Jar",
         "author": "Sylvia Plath",
-        "published": "January 1, 1963",
+        "published": 1963,
         "price": 0.0,
         "valuation": 4.05,
         "pages": 294,
@@ -1478,7 +1478,7 @@
     {
         "title": "Charlie and the Chocolate Factory",
         "author": "Roald Dahl",
-        "published": "January 17, 1964",
+        "published": 1964,
         "price": null,
         "valuation": 4.16,
         "pages": 176,
@@ -1490,7 +1490,7 @@
     {
         "title": "Rebecca",
         "author": "Daphne du Maurier",
-        "published": "August 1, 1938",
+        "published": 1938,
         "price": 10.99,
         "valuation": 4.24,
         "pages": 449,
@@ -1502,7 +1502,7 @@
     {
         "title": "Dune",
         "author": "Frank Herbert",
-        "published": "June 1, 1965",
+        "published": 1965,
         "price": null,
         "valuation": 4.26,
         "pages": 658,
@@ -1514,7 +1514,7 @@
     {
         "title": "The Last Lecture",
         "author": "Randy Pausch",
-        "published": "April 8, 2008",
+        "published": 2008,
         "price": 11.99,
         "valuation": 4.26,
         "pages": 206,
@@ -1526,7 +1526,7 @@
     {
         "title": "And Then There Were None",
         "author": "Agatha Christie",
-        "published": "November 6, 1939",
+        "published": 1939,
         "price": 9.99,
         "valuation": 4.28,
         "pages": 264,
@@ -1538,7 +1538,7 @@
     {
         "title": "The Velveteen Rabbit",
         "author": "Margery Williams Bianco",
-        "published": "January 1, 1922",
+        "published": 1922,
         "price": 2.99,
         "valuation": 4.3,
         "pages": 40,
@@ -1550,7 +1550,7 @@
     {
         "title": "The Lovely Bones",
         "author": "Alice Sebold",
-        "published": "July 3, 2002",
+        "published": 2002,
         "price": 0.0,
         "valuation": 3.85,
         "pages": 372,
@@ -1562,7 +1562,7 @@
     {
         "title": "The Fountainhead",
         "author": "Ayn Rand",
-        "published": "April 15, 1943",
+        "published": 1943,
         "price": 9.99,
         "valuation": 3.88,
         "pages": 704,
@@ -1574,7 +1574,7 @@
     {
         "title": "Alice in Wonderland",
         "author": "Jane Carruth",
-        "published": "January 1, 1865",
+        "published": 1865,
         "price": 1.0,
         "valuation": 4.03,
         "pages": 96,
@@ -1586,7 +1586,7 @@
     {
         "title": "The Call of the Wild",
         "author": "Jack London",
-        "published": "January 1, 1903",
+        "published": 1903,
         "price": 1.69,
         "valuation": 3.9,
         "pages": 172,
@@ -1598,7 +1598,7 @@
     {
         "title": "The Girl with the Dragon Tattoo",
         "author": "Stieg Larsson",
-        "published": "August 1, 2005",
+        "published": 2005,
         "price": null,
         "valuation": 4.16,
         "pages": 480,
@@ -1610,7 +1610,7 @@
     {
         "title": "The Return of the King",
         "author": "J.R.R. Tolkien",
-        "published": "October 20, 1955",
+        "published": 1955,
         "price": null,
         "valuation": 4.56,
         "pages": 385,
@@ -1622,7 +1622,7 @@
     {
         "title": "Animal Farm / 1984",
         "author": "George Orwell",
-        "published": "January 1, 1949",
+        "published": 1949,
         "price": 14.99,
         "valuation": 4.3,
         "pages": 400,
@@ -1634,7 +1634,7 @@
     {
         "title": "The Five People You Meet in Heaven",
         "author": "Mitch Albom",
-        "published": "September 1, 2003",
+        "published": 2003,
         "price": null,
         "valuation": 3.98,
         "pages": 196,
@@ -1646,7 +1646,7 @@
     {
         "title": "Perfume: The Story of a Murderer",
         "author": "Patrick Süskind",
-        "published": "January 1, 1985",
+        "published": 1985,
         "price": 9.99,
         "valuation": 4.03,
         "pages": 263,
@@ -1658,7 +1658,7 @@
     {
         "title": "A Story of Yesterday",
         "author": "Sergio Cobo",
-        "published": "March 6, 2014",
+        "published": 2014,
         "price": 3.99,
         "valuation": 4.59,
         "pages": 70,
@@ -1670,7 +1670,7 @@
     {
         "title": "Angela's Ashes",
         "author": "Frank McCourt",
-        "published": "September 5, 1996",
+        "published": 1996,
         "price": null,
         "valuation": 4.14,
         "pages": 452,
@@ -1682,7 +1682,7 @@
     {
         "title": "The Wonderful Wizard of Oz",
         "author": "L. Frank Baum",
-        "published": "May 17, 1900",
+        "published": 1900,
         "price": null,
         "valuation": 4.0,
         "pages": 154,
@@ -1694,7 +1694,7 @@
     {
         "title": "The Two Towers",
         "author": "J.R.R. Tolkien",
-        "published": "November 11, 1954",
+        "published": 1954,
         "price": null,
         "valuation": 4.48,
         "pages": 448,
@@ -1706,7 +1706,7 @@
     {
         "title": "Love You Forever",
         "author": "Robert Munsch",
-        "published": "January 1, 1986",
+        "published": 1986,
         "price": 4.73,
         "valuation": 4.37,
         "pages": 32,
@@ -1718,7 +1718,7 @@
     {
         "title": "Bridge to Terabithia",
         "author": "Katherine Paterson",
-        "published": "October 21, 1977",
+        "published": 1977,
         "price": 0.0,
         "valuation": 4.04,
         "pages": 190,
@@ -1730,7 +1730,7 @@
     {
         "title": "The Divine Comedy",
         "author": "Dante Alighieri",
-        "published": "January 1, 1320",
+        "published": 1320,
         "price": 6.99,
         "valuation": 4.07,
         "pages": 798,
@@ -1742,7 +1742,7 @@
     {
         "title": "The Road",
         "author": "Cormac McCarthy",
-        "published": "September 26, 2006",
+        "published": 2006,
         "price": 12.99,
         "valuation": 3.99,
         "pages": 241,
@@ -1754,7 +1754,7 @@
     {
         "title": "A Prayer for Owen Meany",
         "author": "John Irving",
-        "published": "March 28, 1989",
+        "published": 1989,
         "price": 8.99,
         "valuation": 4.24,
         "pages": 637,
@@ -1766,7 +1766,7 @@
     {
         "title": "A Midsummer Night's Dream",
         "author": "William Shakespeare",
-        "published": "January 1, 1595",
+        "published": 1595,
         "price": 0.99,
         "valuation": 3.95,
         "pages": 240,
@@ -1778,7 +1778,7 @@
     {
         "title": "Persuasion",
         "author": "Jane Austen",
-        "published": "December 20, 1817",
+        "published": 1817,
         "price": null,
         "valuation": 4.15,
         "pages": 249,
@@ -1790,7 +1790,7 @@
     {
         "title": "The Name of the Rose",
         "author": "Umberto Eco",
-        "published": "January 1, 1980",
+        "published": 1980,
         "price": 13.99,
         "valuation": 4.14,
         "pages": 536,
@@ -1802,7 +1802,7 @@
     {
         "title": "The Prophet",
         "author": "Kahlil Gibran",
-        "published": "January 1, 1923",
+        "published": 1923,
         "price": 3.99,
         "valuation": 4.23,
         "pages": 127,
@@ -1814,7 +1814,7 @@
     {
         "title": "The Three Musketeers",
         "author": "Alexandre Dumas",
-        "published": "January 1, 1844",
+        "published": 1844,
         "price": 0.99,
         "valuation": 4.09,
         "pages": 625,
@@ -1826,7 +1826,7 @@
     {
         "title": "The Golden Compass",
         "author": "Philip Pullman",
-        "published": "July 1, 1995",
+        "published": 1995,
         "price": null,
         "valuation": 4.02,
         "pages": 399,
@@ -1838,7 +1838,7 @@
     {
         "title": "Water for Elephants",
         "author": "Sara Gruen",
-        "published": "May 22, 2006",
+        "published": 2006,
         "price": 11.99,
         "valuation": 4.11,
         "pages": 368,
@@ -1850,7 +1850,7 @@
     {
         "title": "The Boy in the Striped Pajamas",
         "author": "John Boyne",
-        "published": "January 1, 2006",
+        "published": 2006,
         "price": 6.99,
         "valuation": 4.15,
         "pages": 224,
@@ -1862,7 +1862,7 @@
     {
         "title": "The Pillars of the Earth",
         "author": "Ken Follett",
-        "published": "October 1, 1989",
+        "published": 1989,
         "price": null,
         "valuation": 4.33,
         "pages": 976,
@@ -1874,7 +1874,7 @@
     {
         "title": "How the Grinch Stole Christmas!",
         "author": "Dr. Seuss",
-        "published": "October 12, 1957",
+        "published": 1957,
         "price": null,
         "valuation": 4.37,
         "pages": 64,
@@ -1886,7 +1886,7 @@
     {
         "title": "Jonathan Livingston Seagull",
         "author": "Richard Bach",
-        "published": "January 1, 1970",
+        "published": 1970,
         "price": 10.99,
         "valuation": 3.85,
         "pages": 112,
@@ -1898,7 +1898,7 @@
     {
         "title": "Oliver Twist",
         "author": "Charles Dickens",
-        "published": "January 1, 1838",
+        "published": 1838,
         "price": 3.8,
         "valuation": 3.88,
         "pages": 608,
@@ -1910,7 +1910,7 @@
     {
         "title": "The Secret Life of Bees",
         "author": "Sue Monk Kidd",
-        "published": "November 8, 2001",
+        "published": 2001,
         "price": 12.99,
         "valuation": 4.09,
         "pages": 302,
@@ -1922,7 +1922,7 @@
     {
         "title": "The Notebook",
         "author": "Nicholas Sparks",
-        "published": "October 1, 1996",
+        "published": 1996,
         "price": null,
         "valuation": 4.14,
         "pages": 227,
@@ -1934,7 +1934,7 @@
     {
         "title": "The Master and Margarita",
         "author": "Mikhail Bulgakov",
-        "published": "January 1, 1967",
+        "published": 1967,
         "price": 9.99,
         "valuation": 4.29,
         "pages": 372,
@@ -1946,7 +1946,7 @@
     {
         "title": "Mockingjay",
         "author": "Suzanne Collins",
-        "published": "August 24, 2010",
+        "published": 2010,
         "price": null,
         "valuation": 4.08,
         "pages": 390,
@@ -1958,7 +1958,7 @@
     {
         "title": "The Complete Sherlock Holmes",
         "author": "Arthur Conan Doyle",
-        "published": "April 1, 1927",
+        "published": 1927,
         "price": null,
         "valuation": 4.5,
         "pages": 1796,
@@ -1970,7 +1970,7 @@
     {
         "title": "In Cold Blood",
         "author": "Truman Capote",
-        "published": "January 1, 1959",
+        "published": 1959,
         "price": 12.99,
         "valuation": 4.08,
         "pages": 343,
@@ -1982,7 +1982,7 @@
     {
         "title": "The Red Tent",
         "author": "Anita Diamant",
-        "published": "January 1, 1997",
+        "published": 1997,
         "price": 0.0,
         "valuation": 4.2,
         "pages": 324,
@@ -1994,7 +1994,7 @@
     {
         "title": "The Crucible: A Play in Four Acts",
         "author": "Arthur  Miller",
-        "published": "May 1, 1946",
+        "published": 1946,
         "price": null,
         "valuation": 3.6,
         "pages": 143,
@@ -2006,7 +2006,7 @@
     {
         "title": "The Shadow of the Wind",
         "author": "Carlos Ruiz Zafón",
-        "published": "May 1, 2001",
+        "published": 2001,
         "price": null,
         "valuation": 4.29,
         "pages": 487,
@@ -2018,7 +2018,7 @@
     {
         "title": "Heart of Darkness",
         "author": "Joseph Conrad",
-        "published": "January 1, 1899",
+        "published": 1899,
         "price": 1.99,
         "valuation": 3.43,
         "pages": 188,
@@ -2030,7 +2030,7 @@
     {
         "title": "Love in the Time of Cholera",
         "author": "Gabriel García Márquez",
-        "published": "November 1, 1985",
+        "published": 1985,
         "price": null,
         "valuation": 3.93,
         "pages": 348,
@@ -2042,7 +2042,7 @@
     {
         "title": "The Glass Castle",
         "author": "Jeannette Walls",
-        "published": "January 1, 2005",
+        "published": 2005,
         "price": 13.99,
         "valuation": 4.31,
         "pages": 288,
@@ -2054,7 +2054,7 @@
     {
         "title": "The Gift of the Magi",
         "author": "O. Henry",
-        "published": "December 10, 1905",
+        "published": 1905,
         "price": 3.99,
         "valuation": 4.1,
         "pages": 26,
@@ -2066,7 +2066,7 @@
     {
         "title": "Eat, Pray, Love",
         "author": "Elizabeth Gilbert",
-        "published": "February 16, 2006",
+        "published": 2006,
         "price": 14.99,
         "valuation": 3.62,
         "pages": 368,
@@ -2078,7 +2078,7 @@
     {
         "title": "The Unbearable Lightness of Being",
         "author": "Milan Kundera",
-        "published": "January 1, 1984",
+        "published": 1984,
         "price": 12.99,
         "valuation": 4.11,
         "pages": 314,
@@ -2090,7 +2090,7 @@
     {
         "title": "Interview with the Vampire",
         "author": "Anne Rice",
-        "published": "April 12, 1976",
+        "published": 1976,
         "price": null,
         "valuation": 4.02,
         "pages": 346,
@@ -2102,7 +2102,7 @@
     {
         "title": "The Art of War",
         "author": "Sun Tzu",
-        "published": "January 1, 401",
+        "published": 401,
         "price": 0.0,
         "valuation": 3.96,
         "pages": 273,
@@ -2114,7 +2114,7 @@
     {
         "title": "The Canterbury Tales",
         "author": "Geoffrey Chaucer",
-        "published": "January 1, 1400",
+        "published": 1400,
         "price": 0.49,
         "valuation": 3.52,
         "pages": 504,
@@ -2126,7 +2126,7 @@
     {
         "title": "On the Road",
         "author": "Jack Kerouac",
-        "published": "September 5, 1957",
+        "published": 1957,
         "price": 12.99,
         "valuation": 3.61,
         "pages": 307,
@@ -2138,7 +2138,7 @@
     {
         "title": "Aesop's Fables",
         "author": "Aesop",
-        "published": "January 1, 501",
+        "published": 501,
         "price": 6.49,
         "valuation": 4.05,
         "pages": 352,
@@ -2150,7 +2150,7 @@
     {
         "title": "The Screwtape Letters",
         "author": "C.S. Lewis",
-        "published": "February 1, 1942",
+        "published": 1942,
         "price": 12.49,
         "valuation": 4.26,
         "pages": 222,
@@ -2162,7 +2162,7 @@
     {
         "title": "The Godfather",
         "author": "Mario Puzo",
-        "published": "March 10, 1969",
+        "published": 1969,
         "price": null,
         "valuation": 4.38,
         "pages": 448,
@@ -2174,8 +2174,8 @@
     {
         "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
         "author": "J.R.R. Tolkien",
-        "published": "January 1, 1954",
-        "price": 19.99,
+        "published": 1954,
+        "price": 24.0,
         "valuation": 4.61,
         "pages": 1728,
         "link": "https://www.goodreads.com//book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set",
@@ -2186,7 +2186,7 @@
     {
         "title": "Dr. Jekyll and Mr. Hyde",
         "author": "Robert Louis Stevenson",
-        "published": "January 5, 1886",
+        "published": 1886,
         "price": 3.0,
         "valuation": 3.83,
         "pages": 139,
@@ -2198,7 +2198,7 @@
     {
         "title": "Fight Club",
         "author": "Chuck Palahniuk",
-        "published": "August 17, 1996",
+        "published": 1996,
         "price": null,
         "valuation": 4.19,
         "pages": 224,
@@ -2210,7 +2210,7 @@
     {
         "title": "Walden",
         "author": "Henry David Thoreau",
-        "published": "August 9, 1854",
+        "published": 1854,
         "price": 0.0,
         "valuation": 3.78,
         "pages": 352,
@@ -2222,7 +2222,7 @@
     {
         "title": "Gulliver's Travels",
         "author": "Jonathan Swift",
-        "published": "January 1, 1726",
+        "published": 1726,
         "price": 0.99,
         "valuation": 3.58,
         "pages": 306,
@@ -2234,7 +2234,7 @@
     {
         "title": "Robinson Crusoe",
         "author": "Daniel Defoe",
-        "published": "April 25, 1719",
+        "published": 1719,
         "price": 0.0,
         "valuation": 3.68,
         "pages": 320,
@@ -2246,7 +2246,7 @@
     {
         "title": "The Origin of Species",
         "author": "Charles Darwin",
-        "published": "January 1, 1859",
+        "published": 1859,
         "price": 2.99,
         "valuation": 4.01,
         "pages": 703,
@@ -2258,7 +2258,7 @@
     {
         "title": "Invisible Man",
         "author": "Ralph Ellison",
-        "published": "April 14, 1952",
+        "published": 1952,
         "price": 11.99,
         "valuation": 3.91,
         "pages": 581,
@@ -2270,7 +2270,7 @@
     {
         "title": "Emma",
         "author": "Jane Austen",
-        "published": "December 23, 1815",
+        "published": 1815,
         "price": 0.99,
         "valuation": 4.04,
         "pages": 474,
@@ -2282,7 +2282,7 @@
     {
         "title": "The Prince",
         "author": "Niccolò Machiavelli",
-        "published": "January 1, 1513",
+        "published": 1513,
         "price": 9.99,
         "valuation": 3.84,
         "pages": 144,
@@ -2294,7 +2294,7 @@
     {
         "title": "Sophie's World",
         "author": "Jostein Gaarder",
-        "published": "January 1, 1991",
+        "published": 1991,
         "price": 11.99,
         "valuation": 3.96,
         "pages": 403,
@@ -2306,7 +2306,7 @@
     {
         "title": "The Complete Grimm's Fairy Tales",
         "author": "Jacob Grimm",
-        "published": "December 20, 1812",
+        "published": 1812,
         "price": 0.99,
         "valuation": 4.28,
         "pages": 880,
@@ -2318,7 +2318,7 @@
     {
         "title": "The Time Machine",
         "author": "H.G. Wells",
-        "published": "January 1, 1895",
+        "published": 1895,
         "price": 0.0,
         "valuation": 3.9,
         "pages": 118,
@@ -2330,7 +2330,7 @@
     {
         "title": "The Trial",
         "author": "Franz Kafka",
-        "published": "April 26, 1925",
+        "published": 1925,
         "price": 0.99,
         "valuation": 3.96,
         "pages": 255,
@@ -2342,7 +2342,7 @@
     {
         "title": "Watchmen",
         "author": "Alan Moore",
-        "published": "January 1, 1987",
+        "published": 1987,
         "price": null,
         "valuation": 4.38,
         "pages": 416,
@@ -2354,7 +2354,7 @@
     {
         "title": "Candide",
         "author": "Voltaire",
-        "published": "January 1, 1759",
+        "published": 1759,
         "price": 2.99,
         "valuation": 3.76,
         "pages": 129,
@@ -2366,7 +2366,7 @@
     {
         "title": "Roots: The Saga of an American Family",
         "author": "Alex Haley",
-        "published": "August 17, 1976",
+        "published": 1976,
         "price": 12.99,
         "valuation": 4.44,
         "pages": 888,
@@ -2378,7 +2378,7 @@
     {
         "title": "Beloved",
         "author": "Toni Morrison",
-        "published": "September 16, 1987",
+        "published": 1987,
         "price": 12.99,
         "valuation": 3.94,
         "pages": 324,
@@ -2390,7 +2390,7 @@
     {
         "title": "Atonement",
         "author": "Ian McEwan",
-        "published": "September 20, 2001",
+        "published": 2001,
         "price": 13.99,
         "valuation": 3.93,
         "pages": 351,
@@ -2402,7 +2402,7 @@
     {
         "title": "The Fellowship of the Ring",
         "author": "J.R.R. Tolkien",
-        "published": "July 29, 1954",
+        "published": 1954,
         "price": null,
         "valuation": 4.39,
         "pages": 432,
@@ -2414,7 +2414,7 @@
     {
         "title": "Go Ask Alice",
         "author": "Beatrice Sparks",
-        "published": "January 1, 1971",
+        "published": 1971,
         "price": null,
         "valuation": 3.74,
         "pages": 213,
@@ -2426,7 +2426,7 @@
     {
         "title": "The Things They Carried",
         "author": "Tim O'Brien",
-        "published": "March 28, 1990",
+        "published": 1990,
         "price": 9.99,
         "valuation": 4.14,
         "pages": 246,
@@ -2438,7 +2438,7 @@
     {
         "title": "Tuck Everlasting",
         "author": "Natalie Babbitt",
-        "published": "January 1, 1975",
+        "published": 1975,
         "price": 8.99,
         "valuation": 3.9,
         "pages": 148,
@@ -2450,7 +2450,7 @@
     {
         "title": "My Sister's Keeper",
         "author": "Jodi Picoult",
-        "published": "April 6, 2004",
+        "published": 2004,
         "price": 13.99,
         "valuation": 4.1,
         "pages": 423,
@@ -2462,7 +2462,7 @@
     {
         "title": "Divergent",
         "author": "Veronica Roth",
-        "published": "April 25, 2011",
+        "published": 2011,
         "price": null,
         "valuation": 4.15,
         "pages": 487,
@@ -2474,7 +2474,7 @@
     {
         "title": "Stranger in a Strange Land",
         "author": "Robert A. Heinlein",
-        "published": "July 1, 1961",
+        "published": 1961,
         "price": 9.99,
         "valuation": 3.92,
         "pages": 525,
@@ -2486,7 +2486,7 @@
     {
         "title": "The Sun Also Rises",
         "author": "Ernest Hemingway",
-        "published": "October 22, 1926",
+        "published": 1926,
         "price": null,
         "valuation": 3.8,
         "pages": 189,
@@ -2498,7 +2498,7 @@
     {
         "title": "The Mists of Avalon",
         "author": "Marion Zimmer Bradley",
-        "published": "December 1, 1982",
+        "published": 1982,
         "price": null,
         "valuation": 4.13,
         "pages": 884,
@@ -2510,7 +2510,7 @@
     {
         "title": "Mere Christianity",
         "author": "C.S. Lewis",
-        "published": "January 1, 1942",
+        "published": 1942,
         "price": 14.99,
         "valuation": 4.35,
         "pages": 98,
@@ -2522,7 +2522,7 @@
     {
         "title": "The Lightning Thief",
         "author": "Rick Riordan",
-        "published": "July 28, 2005",
+        "published": 2005,
         "price": null,
         "valuation": 4.3,
         "pages": 377,
@@ -2534,7 +2534,7 @@
     {
         "title": "The Phantom Tollbooth",
         "author": "Norton Juster",
-        "published": "January 1, 1961",
+        "published": 1961,
         "price": 8.99,
         "valuation": 4.19,
         "pages": 248,
@@ -2546,7 +2546,7 @@
     {
         "title": "The Tale of Peter Rabbit",
         "author": "Beatrix Potter",
-        "published": "December 16, 1901",
+        "published": 1901,
         "price": null,
         "valuation": 4.21,
         "pages": 72,
@@ -2558,7 +2558,7 @@
     {
         "title": "Murder on the Orient Express",
         "author": "Agatha Christie",
-        "published": "January 1, 1934",
+        "published": 1934,
         "price": null,
         "valuation": 4.2,
         "pages": 274,
@@ -2570,7 +2570,7 @@
     {
         "title": "The Complete Maus",
         "author": "Art Spiegelman",
-        "published": "January 1, 1980",
+        "published": 1980,
         "price": null,
         "valuation": 4.57,
         "pages": 296,
@@ -2582,7 +2582,7 @@
     {
         "title": "Number the Stars",
         "author": "Lois Lowry",
-        "published": "April 24, 1989",
+        "published": 1989,
         "price": 0.0,
         "valuation": 4.18,
         "pages": 137,
@@ -2606,7 +2606,7 @@
     {
         "title": "James and the Giant Peach",
         "author": "Roald Dahl",
-        "published": "November 1, 1961",
+        "published": 1961,
         "price": null,
         "valuation": 4.03,
         "pages": 176,
@@ -2618,7 +2618,7 @@
     {
         "title": "Bury My Heart at Wounded Knee: An Indian History of the American West",
         "author": "Dee Brown",
-        "published": "April 1, 1970",
+        "published": 1970,
         "price": 0.0,
         "valuation": 4.24,
         "pages": 509,
@@ -2630,7 +2630,7 @@
     {
         "title": "The Ultimate Hitchhiker's Guide to the Galaxy",
         "author": "Douglas Adams",
-        "published": "January 17, 1996",
+        "published": 1996,
         "price": 13.99,
         "valuation": 4.38,
         "pages": 815,
@@ -2642,7 +2642,7 @@
     {
         "title": "Schindler's List",
         "author": "Thomas Keneally",
-        "published": "October 18, 1982",
+        "published": 1982,
         "price": 13.99,
         "valuation": 4.34,
         "pages": 429,
@@ -2654,7 +2654,7 @@
     {
         "title": "The Autobiography of Malcolm X",
         "author": "Malcolm X",
-        "published": "October 29, 1965",
+        "published": 1965,
         "price": 9.99,
         "valuation": 4.35,
         "pages": 466,
@@ -2666,7 +2666,7 @@
     {
         "title": "A Little Princess",
         "author": "Frances Hodgson Burnett",
-        "published": "January 1, 1905",
+        "published": 1905,
         "price": null,
         "valuation": 4.22,
         "pages": 242,
@@ -2678,7 +2678,7 @@
     {
         "title": "The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury",
         "author": "Bill Watterson",
-        "published": "January 1, 1988",
+        "published": 1988,
         "price": null,
         "valuation": 4.64,
         "pages": 256,
@@ -2690,7 +2690,7 @@
     {
         "title": "Middlesex",
         "author": "Jeffrey Eugenides",
-        "published": "September 4, 2002",
+        "published": 2002,
         "price": 0.0,
         "valuation": 4.03,
         "pages": 529,
@@ -2702,7 +2702,7 @@
     {
         "title": "Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time",
         "author": "Greg Mortenson",
-        "published": "March 2, 2006",
+        "published": 2006,
         "price": 12.99,
         "valuation": 3.66,
         "pages": 349,
@@ -2714,7 +2714,7 @@
     {
         "title": "A Child Called \"It\"",
         "author": "Dave Pelzer",
-        "published": "January 1, 1995",
+        "published": 1995,
         "price": null,
         "valuation": 4.12,
         "pages": 184,
@@ -2726,7 +2726,7 @@
     {
         "title": "Into the Wild",
         "author": "Jon Krakauer",
-        "published": "January 13, 1996",
+        "published": 1996,
         "price": 12.99,
         "valuation": 4.01,
         "pages": 203,
@@ -2738,7 +2738,7 @@
     {
         "title": "Leaves of Grass",
         "author": "Walt Whitman",
-        "published": "July 4, 1855",
+        "published": 1855,
         "price": 15.99,
         "valuation": 4.12,
         "pages": 624,
@@ -2750,7 +2750,7 @@
     {
         "title": "Their Eyes Were Watching God",
         "author": "Zora Neale Hurston",
-        "published": "January 1, 1937",
+        "published": 1937,
         "price": 14.99,
         "valuation": 3.98,
         "pages": 238,
@@ -2762,7 +2762,7 @@
     {
         "title": "The Wind in the Willows",
         "author": "Kenneth Grahame",
-        "published": "October 8, 1908",
+        "published": 1908,
         "price": 2.99,
         "valuation": 4.0,
         "pages": 197,
@@ -2774,7 +2774,7 @@
     {
         "title": "Speak",
         "author": "Laurie Halse Anderson",
-        "published": "October 22, 1999",
+        "published": 1999,
         "price": 0.0,
         "valuation": 4.04,
         "pages": 202,
@@ -2786,7 +2786,7 @@
     {
         "title": "Peter Pan",
         "author": "J.M. Barrie",
-        "published": "December 27, 1911",
+        "published": 1911,
         "price": 3.87,
         "valuation": 4.04,
         "pages": 176,
@@ -2798,7 +2798,7 @@
     {
         "title": "The Republic",
         "author": "Plato",
-        "published": "January 1, 376",
+        "published": 376,
         "price": 10.99,
         "valuation": 3.96,
         "pages": 416,
@@ -2810,7 +2810,7 @@
     {
         "title": "A People's History of the United States",
         "author": "Howard Zinn",
-        "published": "January 1, 1980",
+        "published": 1980,
         "price": 14.49,
         "valuation": 4.07,
         "pages": 729,
@@ -2822,7 +2822,7 @@
     {
         "title": "American Gods",
         "author": "Neil Gaiman",
-        "published": "June 19, 2001",
+        "published": 2001,
         "price": null,
         "valuation": 4.11,
         "pages": 635,
@@ -2834,7 +2834,7 @@
     {
         "title": "Holes",
         "author": "Louis Sachar",
-        "published": "August 20, 1998",
+        "published": 1998,
         "price": null,
         "valuation": 3.99,
         "pages": 272,
@@ -2846,7 +2846,7 @@
     {
         "title": "The Story of My Life",
         "author": "Helen Keller",
-        "published": "January 1, 1902",
+        "published": 1902,
         "price": 0.99,
         "valuation": 4.08,
         "pages": 240,
@@ -2858,7 +2858,7 @@
     {
         "title": "The World According to Garp",
         "author": "John Irving",
-        "published": "April 24, 1978",
+        "published": 1978,
         "price": 14.99,
         "valuation": 4.1,
         "pages": 610,
@@ -2870,7 +2870,7 @@
     {
         "title": "Looking for Alaska",
         "author": "John Green",
-        "published": "March 3, 2005",
+        "published": 2005,
         "price": 8.99,
         "valuation": 3.97,
         "pages": 221,
@@ -2882,7 +2882,7 @@
     {
         "title": "The Secret Magdalene",
         "author": "Ki Longfellow",
-        "published": "January 1, 2005",
+        "published": 2005,
         "price": 13.99,
         "valuation": 4.15,
         "pages": 448,
@@ -2894,7 +2894,7 @@
     {
         "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
         "author": "Terry Pratchett",
-        "published": "January 1, 1990",
+        "published": 1990,
         "price": 9.99,
         "valuation": 4.25,
         "pages": 491,
@@ -2906,7 +2906,7 @@
     {
         "title": "The Hound of the Baskervilles",
         "author": "Arthur Conan Doyle",
-        "published": "March 25, 1902",
+        "published": 1902,
         "price": null,
         "valuation": 4.13,
         "pages": 256,
@@ -2918,7 +2918,7 @@
     {
         "title": "Things Fall Apart",
         "author": "Chinua Achebe",
-        "published": "January 1, 1958",
+        "published": 1958,
         "price": null,
         "valuation": 3.73,
         "pages": 215,
@@ -2930,7 +2930,7 @@
     {
         "title": "A Short History of Nearly Everything",
         "author": "Bill Bryson",
-        "published": "January 1, 2003",
+        "published": 2003,
         "price": 2.99,
         "valuation": 4.21,
         "pages": 544,
@@ -2942,7 +2942,7 @@
     {
         "title": "The Addiction Manifesto",
         "author": "Jerry Weaver",
-        "published": "April 7, 2018",
+        "published": 2018,
         "price": 1.99,
         "valuation": 4.84,
         "pages": 178,
@@ -2952,21 +2952,21 @@
         "genre3": "Memoir"
     },
     {
-        "title": "A Brief History of Time",
-        "author": "Stephen Hawking",
-        "published": "September 1, 1988",
-        "price": 14.99,
-        "valuation": 4.21,
-        "pages": 226,
+        "title": null,
+        "author": null,
+        "published": null,
+        "price": null,
+        "valuation": null,
+        "pages": null,
         "link": "https://www.goodreads.com//book/show/3869.A_Brief_History_of_Time",
-        "genre1": "Science",
-        "genre2": "Nonfiction",
-        "genre3": "Physics"
+        "genre1": null,
+        "genre2": null,
+        "genre3": null
     },
     {
         "title": "Island of the Blue Dolphins",
         "author": "Scott O'Dell",
-        "published": "September 9, 1960",
+        "published": 1960,
         "price": null,
         "valuation": 3.86,
         "pages": 194,
@@ -2978,7 +2978,7 @@
     {
         "title": "زندگی مه آلود پریا",
         "author": "سید مرتضی مصطفوی",
-        "published": "January 2, 2013",
+        "published": 2013,
         "price": null,
         "valuation": 3.3,
         "pages": 204,
@@ -2990,7 +2990,7 @@
     {
         "title": "Cat's Cradle",
         "author": "Kurt Vonnegut Jr.",
-        "published": "January 1, 1963",
+        "published": 1963,
         "price": 10.99,
         "valuation": 4.16,
         "pages": 179,
@@ -3002,7 +3002,7 @@
     {
         "title": "A Farewell to Arms",
         "author": "Ernest Hemingway",
-        "published": "September 1, 1929",
+        "published": 1929,
         "price": 11.99,
         "valuation": 3.82,
         "pages": 293,
@@ -3014,7 +3014,7 @@
     {
         "title": "The Complete Fairy Tales",
         "author": "Hans Christian Andersen",
-        "published": "December 1, 1872",
+        "published": 1872,
         "price": 2.79,
         "valuation": 4.29,
         "pages": 803,
@@ -3026,7 +3026,7 @@
     {
         "title": "Blindness",
         "author": "José Saramago",
-        "published": "January 1, 1995",
+        "published": 1995,
         "price": null,
         "valuation": 4.17,
         "pages": 349,
@@ -3038,7 +3038,7 @@
     {
         "title": "A Separate Peace",
         "author": "John Knowles",
-        "published": "January 1, 1959",
+        "published": 1959,
         "price": 1.99,
         "valuation": 3.59,
         "pages": 208,
@@ -3050,7 +3050,7 @@
     {
         "title": "The Raven",
         "author": "Edgar Allan Poe",
-        "published": "January 29, 1845",
+        "published": 1845,
         "price": 8.0,
         "valuation": 4.29,
         "pages": 64,
@@ -3062,7 +3062,7 @@
     {
         "title": "The Shack",
         "author": "William Paul Young",
-        "published": "May 1, 2007",
+        "published": 2007,
         "price": 9.99,
         "valuation": 3.81,
         "pages": 248,
@@ -3074,7 +3074,7 @@
     {
         "title": "Fried Green Tomatoes at the Whistle Stop Cafe",
         "author": "Fannie Flagg",
-        "published": "January 1, 1987",
+        "published": 1987,
         "price": 9.99,
         "valuation": 4.28,
         "pages": 416,
@@ -3086,7 +3086,7 @@
     {
         "title": "Madame Bovary",
         "author": "Gustave Flaubert",
-        "published": "December 15, 1856",
+        "published": 1856,
         "price": 6.49,
         "valuation": 3.7,
         "pages": 329,
@@ -3098,7 +3098,7 @@
     {
         "title": "The God Delusion",
         "author": "Richard Dawkins",
-        "published": "October 1, 2006",
+        "published": 2006,
         "price": 14.99,
         "valuation": 3.9,
         "pages": 374,
@@ -3110,7 +3110,7 @@
     {
         "title": "The Joy Luck Club",
         "author": "Amy Tan",
-        "published": "January 1, 1989",
+        "published": 1989,
         "price": 13.99,
         "valuation": 3.97,
         "pages": 352,
@@ -3122,7 +3122,7 @@
     {
         "title": "Tao Te Ching",
         "author": "Lao Tzu",
-        "published": "January 1, 401",
+        "published": 401,
         "price": 10.99,
         "valuation": 4.3,
         "pages": 107,
@@ -3134,7 +3134,7 @@
     {
         "title": "The Neverending Story",
         "author": "Michael Ende",
-        "published": "September 1, 1979",
+        "published": 1979,
         "price": 8.53,
         "valuation": 4.18,
         "pages": 396,
@@ -3146,7 +3146,7 @@
     {
         "title": "Sophie's Choice",
         "author": "William Styron",
-        "published": "January 1, 1979",
+        "published": 1979,
         "price": 13.71,
         "valuation": 4.17,
         "pages": 562,
@@ -3158,7 +3158,7 @@
     {
         "title": "A Confederacy of Dunces",
         "author": "John Kennedy Toole",
-        "published": "May 1, 1980",
+        "published": 1980,
         "price": 8.48,
         "valuation": 3.89,
         "pages": 394,
@@ -3170,7 +3170,7 @@
     {
         "title": "How to Win Friends and Influence People",
         "author": "Dale Carnegie",
-        "published": "October 1, 1936",
+        "published": 1936,
         "price": 14.99,
         "valuation": 4.22,
         "pages": 288,
@@ -3182,7 +3182,7 @@
     {
         "title": "Angels & Demons",
         "author": "Dan Brown",
-        "published": "May 1, 2000",
+        "published": 2000,
         "price": null,
         "valuation": 3.94,
         "pages": 736,
@@ -3194,7 +3194,7 @@
     {
         "title": "Never Let Me Go",
         "author": "Kazuo Ishiguro",
-        "published": "April 5, 2005",
+        "published": 2005,
         "price": 12.99,
         "valuation": 3.84,
         "pages": 288,
@@ -3206,7 +3206,7 @@
     {
         "title": "Guns, Germs, and Steel: The Fates of Human Societies",
         "author": "Jared Diamond",
-        "published": "May 9, 1997",
+        "published": 1997,
         "price": null,
         "valuation": 4.04,
         "pages": 498,
@@ -3218,7 +3218,7 @@
     {
         "title": "Extremely Loud & Incredibly Close",
         "author": "Jonathan Safran Foer",
-        "published": "January 1, 2005",
+        "published": 2005,
         "price": 14.49,
         "valuation": 3.97,
         "pages": 326,
@@ -3230,7 +3230,7 @@
     {
         "title": "Flow Down Like Silver",
         "author": "Ki Longfellow",
-        "published": "August 20, 2009",
+        "published": 2009,
         "price": 9.95,
         "valuation": 3.98,
         "pages": 301,
@@ -3242,7 +3242,7 @@
     {
         "title": "The Clan of the Cave Bear",
         "author": "Jean M. Auel",
-        "published": "January 1, 1980",
+        "published": 1980,
         "price": null,
         "valuation": 4.09,
         "pages": 516,
@@ -3254,7 +3254,7 @@
     {
         "title": "Tess of the D'Urbervilles",
         "author": "Thomas Hardy",
-        "published": "January 1, 1891",
+        "published": 1891,
         "price": 0.0,
         "valuation": 3.83,
         "pages": 518,
@@ -3266,7 +3266,7 @@
     {
         "title": "The Color Purple",
         "author": "Alice Walker",
-        "published": "June 1, 1982",
+        "published": 1982,
         "price": null,
         "valuation": 4.26,
         "pages": 288,
@@ -3278,7 +3278,7 @@
     {
         "title": "Outlander",
         "author": "Diana Gabaldon",
-        "published": "June 1, 1991",
+        "published": 1991,
         "price": null,
         "valuation": 4.26,
         "pages": 850,
@@ -3290,7 +3290,7 @@
     {
         "title": "The Tao of Pooh",
         "author": "Benjamin Hoff",
-        "published": "April 28, 1982",
+        "published": 1982,
         "price": 6.99,
         "valuation": 4.0,
         "pages": 176,
@@ -3302,7 +3302,7 @@
     {
         "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
         "author": "Stephen R. Covey",
-        "published": "January 1, 1988",
+        "published": 1988,
         "price": 0.0,
         "valuation": 4.15,
         "pages": 372,
@@ -3314,7 +3314,7 @@
     {
         "title": "Eclipse",
         "author": "Stephenie Meyer",
-        "published": "August 7, 2007",
+        "published": 2007,
         "price": null,
         "valuation": 3.72,
         "pages": 629,
@@ -3326,7 +3326,7 @@
     {
         "title": "One Day in the Life of Ivan Denisovich",
         "author": "Aleksandr Solzhenitsyn",
-        "published": "November 1, 1962",
+        "published": 1962,
         "price": 0.0,
         "valuation": 3.98,
         "pages": 182,
@@ -3338,7 +3338,7 @@
     {
         "title": "A Light in the Attic",
         "author": "Shel Silverstein",
-        "published": "October 7, 1981",
+        "published": 1981,
         "price": 0.0,
         "valuation": 4.35,
         "pages": 176,
@@ -3350,7 +3350,7 @@
     {
         "title": "Ulysses",
         "author": "James Joyce",
-        "published": "February 2, 1922",
+        "published": 1922,
         "price": null,
         "valuation": 3.75,
         "pages": 783,
@@ -3362,7 +3362,7 @@
     {
         "title": "Lonesome Dove",
         "author": "Larry McMurtry",
-        "published": "January 1, 1985",
+        "published": 1985,
         "price": null,
         "valuation": 4.52,
         "pages": 960,
@@ -3374,7 +3374,7 @@
     {
         "title": "The Jungle",
         "author": "Upton Sinclair",
-        "published": "February 25, 1905",
+        "published": 1905,
         "price": null,
         "valuation": 3.76,
         "pages": 335,
@@ -3386,7 +3386,7 @@
     {
         "title": "The Phantom of the Opera",
         "author": "Gaston Leroux",
-        "published": "September 23, 1909",
+        "published": 1909,
         "price": null,
         "valuation": 3.96,
         "pages": 360,
@@ -3398,7 +3398,7 @@
     {
         "title": "Breaking Dawn",
         "author": "Stephenie Meyer",
-        "published": "August 2, 2008",
+        "published": 2008,
         "price": null,
         "valuation": 3.73,
         "pages": 756,
@@ -3410,7 +3410,7 @@
     {
         "title": "Nickel and Dimed",
         "author": "Barbara Ehrenreich",
-        "published": "May 8, 2001",
+        "published": 2001,
         "price": 0.0,
         "valuation": 3.65,
         "pages": 240,
@@ -3422,7 +3422,7 @@
     {
         "title": "The Name of the Wind",
         "author": "Patrick Rothfuss",
-        "published": "March 27, 2007",
+        "published": 2007,
         "price": null,
         "valuation": 4.52,
         "pages": 662,
@@ -3434,7 +3434,7 @@
     {
         "title": "Paradise Lost",
         "author": "John Milton",
-        "published": "January 1, 1667",
+        "published": 1667,
         "price": 0.99,
         "valuation": 3.84,
         "pages": 453,
@@ -3446,7 +3446,7 @@
     {
         "title": "Horton Hears a Who!",
         "author": "Dr. Seuss",
-        "published": "January 1, 1954",
+        "published": 1954,
         "price": null,
         "valuation": 4.21,
         "pages": 64,
@@ -3458,8 +3458,8 @@
     {
         "title": "The God of Small Things",
         "author": "Arundhati Roy",
-        "published": "April 1, 1997",
-        "price": 13.99,
+        "published": 1997,
+        "price": 14.99,
         "valuation": 3.95,
         "pages": 321,
         "link": "https://www.goodreads.com//book/show/9777.The_God_of_Small_Things",
@@ -3470,7 +3470,7 @@
     {
         "title": "The Green Mile",
         "author": "Stephen King",
-        "published": "January 1, 1996",
+        "published": 1996,
         "price": 9.99,
         "valuation": 4.47,
         "pages": 592,
@@ -3482,7 +3482,7 @@
     {
         "title": "Are You There God? It's Me, Margaret",
         "author": "Judy Blume",
-        "published": "January 1, 1970",
+        "published": 1970,
         "price": 9.99,
         "valuation": 3.94,
         "pages": 149,
@@ -3494,7 +3494,7 @@
     {
         "title": "All Creatures Great and Small / All Things Bright and Beautiful",
         "author": "James Herriot",
-        "published": "January 1, 1972",
+        "published": 1972,
         "price": 11.39,
         "valuation": 4.32,
         "pages": 820,
@@ -3506,7 +3506,7 @@
     {
         "title": "Treasure Island",
         "author": "Robert Louis Stevenson",
-        "published": "January 28, 1882",
+        "published": 1882,
         "price": 0.99,
         "valuation": 3.84,
         "pages": 311,
@@ -3518,7 +3518,7 @@
     {
         "title": "The House of the Spirits",
         "author": "Isabel Allende",
-        "published": "January 1, 1982",
+        "published": 1982,
         "price": 13.99,
         "valuation": 4.27,
         "pages": 448,
@@ -3530,7 +3530,7 @@
     {
         "title": "The Shining",
         "author": "Stephen King",
-        "published": "January 28, 1977",
+        "published": 1977,
         "price": null,
         "valuation": 4.26,
         "pages": 497,
@@ -3542,7 +3542,7 @@
     {
         "title": "The Iliad / The Odyssey",
         "author": "Homer",
-        "published": "January 1, 801",
+        "published": 801,
         "price": 0.99,
         "valuation": 4.06,
         "pages": 1556,
@@ -3554,7 +3554,7 @@
     {
         "title": "V for Vendetta",
         "author": "Alan Moore",
-        "published": "January 1, 1990",
+        "published": 1990,
         "price": null,
         "valuation": 4.26,
         "pages": 296,
@@ -3566,7 +3566,7 @@
     {
         "title": "The Foundation Trilogy",
         "author": "Isaac Asimov",
-        "published": "January 1, 1953",
+        "published": 1953,
         "price": 9.99,
         "valuation": 4.41,
         "pages": 679,
@@ -3578,7 +3578,7 @@
     {
         "title": "The Complete Works",
         "author": "William Shakespeare",
-        "published": "January 1, 1623",
+        "published": 1623,
         "price": 1.99,
         "valuation": 4.47,
         "pages": 1229,
@@ -3590,7 +3590,7 @@
     {
         "title": "New Moon",
         "author": "Stephenie Meyer",
-        "published": "September 6, 2006",
+        "published": 2006,
         "price": null,
         "valuation": 3.59,
         "pages": 563,
