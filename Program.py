@@ -4,7 +4,7 @@ from Graph import Graph
 
 import networkx as nx
 import os
-
+import json
 
 class GraphProgram:
     
@@ -15,9 +15,11 @@ class GraphProgram:
         # Crear el grafo de Networkx
         G = nx.Graph()
         for node, attr in self.graph.adj_list.items():
-            G.add_node(node, **attr)
-            for neighbor in attr['neighbors']:
-                G.add_edge(node, neighbor)
+            if node is not None:
+                G.add_node(node, **attr)
+                for neighbor in attr['neighbors']:
+                    if neighbor is not None:
+                        G.add_edge(node, neighbor)
 
         # Convertir los atributos a cadenas de texto
         for node in G.nodes:

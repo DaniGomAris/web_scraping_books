@@ -1,8 +1,10 @@
+import json
+
 from Book import Book
 from Graph import Graph
 from Scrapper import Scraping
-
-import json
+from Menu import Menu
+from Program import GraphProgram
 
 if __name__ == "__main__":
     while True:
@@ -13,7 +15,7 @@ if __name__ == "__main__":
           Option: """))
 
         if option == 1:
-            my_graph = Graph()
+            graph = Graph()
             scraper = Scraping()
 
             with open("books.json", "r", encoding="utf-8") as json_file:
@@ -40,47 +42,48 @@ if __name__ == "__main__":
 
             for book in books_list:
                 # Agrega un nodo para el libro
-                my_graph.add_vertex(book.title, 'Libro')
+                graph.add_vertex(book.title, 'Libro')
 
                 # Agrega nodos y aristas para otros atributos
-                my_graph.add_vertex(book.author, 'Autor')
-                my_graph.add_edge(book.title, book.author)
-                my_graph.add_edge(book.author, book.title)
+                graph.add_vertex(book.author, 'Autor')
+                graph.add_edge(book.title, book.author)
+                graph.add_edge(book.author, book.title)
 
-                my_graph.add_vertex(book.link, 'Link')
-                my_graph.add_edge(book.title, book.link)
-                my_graph.add_edge(book.link, book.title)
+                graph.add_vertex(book.link, 'Link')
+                graph.add_edge(book.title, book.link)
+                graph.add_edge(book.link, book.title)
                 
-                my_graph.add_vertex(book.published, 'Publicación')
-                my_graph.add_edge(book.title, book.published)
-                my_graph.add_edge(book.published, book.title)
+                graph.add_vertex(book.published, 'Publicación')
+                graph.add_edge(book.title, book.published)
+                graph.add_edge(book.published, book.title)
 
-                my_graph.add_vertex(book.price, 'Precio')
-                my_graph.add_edge(book.title, book.price)
-                my_graph.add_edge(book.price, book.title)
+                graph.add_vertex(book.price, 'Precio')
+                graph.add_edge(book.title, book.price)
+                graph.add_edge(book.price, book.title)
 
-                my_graph.add_vertex(book.valuation, 'Calificación')
-                my_graph.add_edge(book.title, book.valuation)
-                my_graph.add_edge(book.valuation, book.title)
+                graph.add_vertex(book.valuation, 'Calificación')
+                graph.add_edge(book.title, book.valuation)
+                graph.add_edge(book.valuation, book.title)
 
-                my_graph.add_vertex(book.pages, 'Páginas')
-                my_graph.add_edge(book.title, book.pages)
-                my_graph.add_edge(book.pages, book.title)
+                graph.add_vertex(book.pages, 'Páginas')
+                graph.add_edge(book.title, book.pages)
+                graph.add_edge(book.pages, book.title)
 
-                my_graph.add_vertex(book.gender1, 'Género')
-                my_graph.add_edge(book.title, book.gender1)
-                my_graph.add_edge(book.gender1, book.title)
+                graph.add_vertex(book.gender1, 'Género')
+                graph.add_edge(book.title, book.gender1)
+                graph.add_edge(book.gender1, book.title)
 
-                my_graph.add_vertex(book.gender2, 'Género')
-                my_graph.add_edge(book.title, book.gender2)
-                my_graph.add_edge(book.gender2, book.title)
+                graph.add_vertex(book.gender2, 'Género')
+                graph.add_edge(book.title, book.gender2)
+                graph.add_edge(book.gender2, book.title)
 
-                my_graph.add_vertex(book.gender3, 'Género')
-                my_graph.add_edge(book.title, book.gender3)
-                my_graph.add_edge(book.gender3, book.title)
+                graph.add_vertex(book.gender3, 'Género')
+                graph.add_edge(book.title, book.gender3)
+                graph.add_edge(book.gender3, book.title)
 
-            my_graph.print_graph()
+            program = GraphProgram(graph)
+            menu = Menu(program)
+            menu.show_menu()
 
-            break
         else:
             break
