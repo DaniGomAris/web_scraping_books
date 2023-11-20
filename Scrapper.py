@@ -6,8 +6,8 @@ import json
 import re
 
 class Scraping:
-
-    def scrapper_books_info(self, book_url):
+    
+    def scrapper_books_info(self, book_url) -> Book:
         """
         Extrae la información de un libro a partir de su URL
         """
@@ -46,21 +46,22 @@ class Scraping:
         pages = int(re.search(r'\d+', pages_scraping.text.strip()).group()) if pages_scraping else None
 
         # Scraping 3 primeros generos
-        genders_scraping = soup.find_all('span', class_='BookPageMetadataSection__genreButton')
+        genres_scraping = soup.find_all('span', class_='BookPageMetadataSection__genreButton')
 
-        gender1_scraping = genders_scraping[0].find('span', class_='Button__labelItem') if genders_scraping else None
-        gender1 = gender1_scraping.text if gender1_scraping else None
+        genre1_scraping = genres_scraping[0].find('span', class_='Button__labelItem') if genres_scraping else None
+        genre1 = genre1_scraping.text if genre1_scraping else None
 
-        gender2_scraping = genders_scraping[1].find('span', class_='Button__labelItem') if len(genders_scraping) > 1 else None
-        gender2 = gender2_scraping.text if gender2_scraping else None
+        genre2_scraping = genres_scraping[1].find('span', class_='Button__labelItem') if len(genres_scraping) > 1 else None
+        genre2 = genre2_scraping.text if genre2_scraping else None
 
-        gender3_scraping = genders_scraping[2].find('span', class_='Button__labelItem') if len(genders_scraping) > 2 else None
-        gender3 = gender3_scraping.text if gender3_scraping else None
+        genre3_scraping = genres_scraping[2].find('span', class_='Button__labelItem') if len(genres_scraping) > 2 else None
+        genre3 = genre3_scraping.text if genre3_scraping else None
 
-        book = Book(title, book_url, author, price, rating, pages, published, gender1, gender2, gender3)
+        book = Book(title, book_url, author, price, rating, pages, published, genre1, genre2, genre3)
         return book
 
-    def scrapper_books_page(self):
+
+    def scrapper_books_page(self) -> list:
         """
         Scraping de la información de libros en varias paginas de Goodreads
         """
@@ -93,9 +94,9 @@ class Scraping:
                 "valuation": book.valuation,
                 "pages": book.pages,
                 "link": book.link,
-                "gender1": book.gender1,
-                "gender2": book.gender2,
-                "gender3": book.gender3
+                "genre1": book.genre1,
+                "genre2": book.genre2,
+                "genre3": book.genre3
             }
             books_data.append(book_data)
 
@@ -106,6 +107,8 @@ class Scraping:
         print(f"La información de las páginas 1 a 3 se ha guardado en books.json")
         return books_list
 
+
+# Para iniciar el scrapping
 if __name__ == "__main__":
     scraper = Scraping()
     scraper.scrapper_books_page()

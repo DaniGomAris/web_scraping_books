@@ -13,10 +13,12 @@ if __name__ == "__main__":
           1. Start  
           2. Exit
           Option: """))
-
+        
         if option == 1:
             graph = Graph()
             scraper = Scraping()
+            program = GraphProgram(graph)
+            menu = Menu(program)
 
             with open("books.json", "r", encoding="utf-8") as json_file:
                 data = json.load(json_file)
@@ -31,13 +33,13 @@ if __name__ == "__main__":
                 price = book_data["price"]
                 valuation = book_data["valuation"]
                 pages = book_data["pages"]
-                gender1 = book_data["gender1"]
-                gender2 = book_data["gender2"]
-                gender3 = book_data["gender3"]
+                genre1 = book_data["genre1"]
+                genre2 = book_data["genre2"]
+                genre3 = book_data["genre3"]
 
                 # Crear el objeto Book solo si al menos un atributo no es None
-                if any(value is not None for value in [price, author, link, published, valuation, pages, gender1, gender2, gender3]):
-                    book = Book(title, link, author, price, valuation, pages, published, gender1, gender2, gender3)
+                if any(value is not None for value in [price, author, link, published, valuation, pages, genre1, genre2, genre3]):
+                    book = Book(title, link, author, price, valuation, pages, published, genre1, genre2, genre3)
                     books_list.append(book)
 
             for book in books_list:
@@ -69,20 +71,18 @@ if __name__ == "__main__":
                 graph.add_edge(book.title, book.pages)
                 graph.add_edge(book.pages, book.title)
 
-                graph.add_vertex(book.gender1, 'Género')
-                graph.add_edge(book.title, book.gender1)
-                graph.add_edge(book.gender1, book.title)
+                graph.add_vertex(book.genre1, 'Género')
+                graph.add_edge(book.title, book.genre1)
+                graph.add_edge(book.genre1, book.title)
 
-                graph.add_vertex(book.gender2, 'Género')
-                graph.add_edge(book.title, book.gender2)
-                graph.add_edge(book.gender2, book.title)
+                graph.add_vertex(book.genre2, 'Género')
+                graph.add_edge(book.title, book.genre2)
+                graph.add_edge(book.genre2, book.title)
 
-                graph.add_vertex(book.gender3, 'Género')
-                graph.add_edge(book.title, book.gender3)
-                graph.add_edge(book.gender3, book.title)
+                graph.add_vertex(book.genre3, 'Género')
+                graph.add_edge(book.title, book.genre3)
+                graph.add_edge(book.genre3, book.title)
 
-            program = GraphProgram(graph)
-            menu = Menu(program)
             menu.show_menu()
 
         else:
