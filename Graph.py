@@ -9,11 +9,11 @@ class Graph:
         Agrega un nuevo vertice al grafo
         """
         if node_label not in self.adj_list:
-            # Los tipos de los nodo serán: Title, Link, Author, Price, Valuation, Pages, Published, genre1, genre2, genre3
+            # Los tipos de los vertices serán: Title, Link, Author, Price, Valuation, Pages, Published, genre1, genre2, genre3
             self.adj_list[node_label] = {'type': node_type, 'neighbors': []}
-            '''
-            Estructura de un nodo
-            nombre del nodo: {'type': tipo del nodo, 'neighbors': []}
+            """
+            Estructura de un vertice
+            nombre del vertice: {'type': tipo del nodo, 'neighbors': []}
             ejemplo:
             {
                 'To Kill a Mockingbird': {
@@ -21,13 +21,14 @@ class Graph:
                     'neighbors': ['Harper Lee', 'https://www.goodreads.com//book/show/2657.To_Kill_a_Mockingbird', ...]
                 }
             }
-            '''
+            """
 
     def get_neighbors(self, node_label) -> list:
         """
         Obtiene los vecinos de un nodo en el grafo
         """
         if node_label in self.adj_list:
+            node_data = self.adj_list[node_label]
             return self.adj_list[node_label]['neighbors']
         else:
             return []
