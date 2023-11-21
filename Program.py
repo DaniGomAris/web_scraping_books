@@ -70,7 +70,6 @@ class GraphProgram:
                 
                 for book in neighbors:
                     book_year = self.graph.adj_list[book]['neighbors'][2]
-
                     books_with_years.append((book, book_year))
                 
                 sorted_books = sorted(books_with_years, key=lambda x: x[1])
@@ -83,12 +82,34 @@ class GraphProgram:
             print("No se encontró el autor buscado")
 
 
+    def list_books_same_genre_by_decade(self, genre: str, decade_start: int, decade_end: int):
+        """
+        Listar libros del mismo género en la misma década
+        """
+        if genre in self.graph.adj_list:
+            vertex_data = self.graph.adj_list[genre]
+            neighbors = vertex_data['neighbors']
 
-    def list_books_same_genre_by_years(self, genre: str, year: int):
-        """
-        Recomendar N libros del mismo género y de la misma década
-        """
-        pass
+            print()
+            print(f"Libros del género {genre} en la década {decade_start}-{decade_end}:")
+            
+            books_in_decade = []
+            
+            for book in neighbors:
+                book_year_str = self.graph.adj_list[book]['neighbors'][2]
+                book_year = int(book_year_str)
+
+                # Verificar si el año está en la década especificada
+                if decade_start <= book_year < decade_end:
+                    books_in_decade.append((book, book_year))
+
+            if books_in_decade:
+                for book, year in books_in_decade:
+                    print(f"- {book} / {year}")
+            else:
+                print(f"No se encontraron libros del género {genre} en la década {decade_start}-{decade_end}")
+        else:
+            print("No se encontró el género buscado")
 
 
     def list_authors_same_genre_by_number_books(self, genre: str):

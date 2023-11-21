@@ -48,8 +48,9 @@ MENU
 
         if option == 4:
             genre = input("Genre: ")
-            year = input("Year: ")
-            self.program.list_books_same_genre_by_years(genre, year)
+            decade_start = int(input("Decade: "))
+            decade_end = decade_start + 10
+            self.program.list_books_same_genre_by_decade(genre, decade_start, decade_end)
             self.show_menu()
 
         if option == 5:
