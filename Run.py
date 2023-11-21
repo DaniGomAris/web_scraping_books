@@ -44,10 +44,10 @@ if __name__ == "__main__":
 
             for book in books_list:
                 # Agrega un nodo para el libro
-                graph.add_vertex(book.title, 'Libro')
+                graph.add_vertex(book.title, 'Book')
 
                 # Agrega nodos y aristas para otros atributos
-                graph.add_vertex(book.author, 'Autor')
+                graph.add_vertex(book.author, 'Author')
                 graph.add_edge(book.title, book.author)
                 graph.add_edge(book.author, book.title)
 
@@ -55,31 +55,31 @@ if __name__ == "__main__":
                 graph.add_edge(book.title, book.link)
                 graph.add_edge(book.link, book.title)
                 
-                graph.add_vertex(book.published, 'Publicación')
+                graph.add_vertex(book.published, 'Published')
                 graph.add_edge(book.title, book.published)
                 graph.add_edge(book.published, book.title)
 
-                graph.add_vertex(book.price, 'Precio')
+                graph.add_vertex(book.price, 'Price')
                 graph.add_edge(book.title, book.price)
                 graph.add_edge(book.price, book.title)
 
-                graph.add_vertex(book.valuation, 'Calificación')
+                graph.add_vertex(book.valuation, 'Valuation')
                 graph.add_edge(book.title, book.valuation)
                 graph.add_edge(book.valuation, book.title)
 
-                graph.add_vertex(book.pages, 'Páginas')
+                graph.add_vertex(book.pages, 'Pages')
                 graph.add_edge(book.title, book.pages)
                 graph.add_edge(book.pages, book.title)
 
-                graph.add_vertex(book.genre1, 'Género')
+                graph.add_vertex(book.genre1, 'Genre')
                 graph.add_edge(book.title, book.genre1)
                 graph.add_edge(book.genre1, book.title)
 
-                graph.add_vertex(book.genre2, 'Género')
+                graph.add_vertex(book.genre2, 'Genre')
                 graph.add_edge(book.title, book.genre2)
                 graph.add_edge(book.genre2, book.title)
 
-                graph.add_vertex(book.genre3, 'Género')
+                graph.add_vertex(book.genre3, 'Genre')
                 graph.add_edge(book.title, book.genre3)
                 graph.add_edge(book.genre3, book.title)
 

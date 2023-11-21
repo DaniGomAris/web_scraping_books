@@ -9,7 +9,7 @@ class Graph:
         Agrega un nuevo vertice al grafo
         """
         if node_label not in self.adj_list:
-            # Los tipos de los vertices serán: Title, Link, Author, Price, Valuation, Pages, Published, genre1, genre2, genre3
+            # Los tipos de los vertices serán: Book, Title, Link, Author, Price, Valuation, Pages, Published, genre1, genre2, genre3
             self.adj_list[node_label] = {'type': node_type, 'neighbors': []}
             """
             Estructura de un vertice
