@@ -63,6 +63,7 @@ class Scraping:
         book = Book(title, book_url, author, price, rating, pages, published, genre1, genre2, genre3)
         return book
 
+
     @staticmethod
     def scrapper_books_page() -> list:
         """
@@ -87,6 +88,7 @@ class Scraping:
                 print(book_info)
 
         return books_list
+
 
     @staticmethod
     def create_json_file(books_list):

@@ -4,6 +4,7 @@ class Graph:
         self.adj_list: dict = {} 
         self.directed: bool = directed
 
+
     def add_vertex(self, node_label, node_type=None):
         """
         Agrega un nuevo vertice al grafo
@@ -17,21 +18,12 @@ class Graph:
             ejemplo:
             {
                 'To Kill a Mockingbird': {
-                    'type': 'Libro',
+                    'type': 'Book',
                     'neighbors': ['Harper Lee', 'https://www.goodreads.com//book/show/2657.To_Kill_a_Mockingbird', ...]
                 }
             }
             """
 
-    def get_neighbors(self, node_label) -> list:
-        """
-        Obtiene los vecinos de un nodo en el grafo
-        """
-        if node_label in self.adj_list:
-            node_data = self.adj_list[node_label]
-            return self.adj_list[node_label]['neighbors']
-        else:
-            return []
 
     def add_edge(self, v1, v2):
         """
@@ -49,22 +41,6 @@ class Graph:
             # Si el grafo no es dirigido, entonces tambien le agregaremos a v2 de vecino v1 
             self.adj_list[v2]['neighbors'].append(v1)
 
-    def DFS(self, start, visited=None) -> list:
-        """
-        Realiza un recorrido en profundidad (Depth-First Search) en el grafo
-        """
-        if visited is None:
-            visited = []
-
-        if start not in self.adj_list:
-            return "No existe el nodo inicial en el grafo."
-        else:
-            if start not in visited:
-                visited.append(start)
-                neighbors = self.get_neighbors(start)
-                for n in neighbors:
-                    self.DFS(n, visited)
-        return visited 
     
     def print_graph(self):
         """

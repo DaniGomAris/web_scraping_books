@@ -102,7 +102,7 @@ class GraphProgram:
                     books_with_years.append((book, book_year))
                 
                 # Ordenar los libros por año de publicación
-                sorted_books = sorted(books_with_years, key=lambda x: x[1])
+                sorted_books = sorted(books_with_years, key=lambda book_year: book_year[1])
 
                 # Mostrar la lista de libros ordenada por año
                 for book, year in sorted_books:
@@ -154,9 +154,9 @@ class GraphProgram:
         # Recorrer todos los nodos del grafo
         for node, data in self.graph.adj_list.items():
             # Verificar si el nodo es de tipo 'Autor'
-            if data['type'] == 'Autor':
+            if data['type'] == 'Author':
                 # Obtener los libros escritos por el autor
-                author_books = [neighbor for neighbor in data['neighbors'] if 'Libro' in self.graph.adj_list[neighbor]['type']]
+                author_books = [neighbor for neighbor in data['neighbors'] if 'Book' in self.graph.adj_list[neighbor]['type']]
                 
                 # Contar la cantidad de libros en el género específico
                 books_count = 0
@@ -188,7 +188,7 @@ class GraphProgram:
         # Iterar a través de los nodos del grafo
         for book, data in self.graph.adj_list.items():
             # Verificar si el nodo representa un libro y pertenece al género especificado
-            if data['type'] == 'Libro' and genre in data['neighbors']:
+            if data['type'] == 'Book' and genre in data['neighbors']:
                 # Obtener la valoración del libro
                 book_valoration = data['neighbors'][4]  # Índice 4 corresponde a la valoración en los neighbors
 
@@ -219,7 +219,7 @@ class GraphProgram:
         # Iterar a través de los nodos del grafo
         for book, data in self.graph.adj_list.items():
             # Verificar si el nodo representa un libro y pertenece al género especificado
-            if data['type'] == 'Libro' and genre in data['neighbors']:
+            if data['type'] == 'Book' and genre in data['neighbors']:
                 # Obtener la valoración del libro
                 book_valoration = data['neighbors'][3]  # Índice 4 corresponde al precio en los neighbors
 

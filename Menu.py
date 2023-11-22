@@ -1,8 +1,10 @@
 import sys
 
 class Menu:
+    
     def __init__(self, program):
         self.program = program
+
 
     def show_menu(self):
         """
@@ -16,7 +18,7 @@ MENU
 2) Mostrar info de un vertice
 3) Mostrar informacion de un libro
 4) Listar los libros de un autor ordenados por fecha de lanzamiento
-5) listar libros del mismo genero y mismo siglo
+5) listar libros del mismo genero y decada
 6) Listar a los autores de un genero ordenados por la cantidad de libros escritos del mismo genero
 7) Listar libros por puntaje mayor escrito
 8) Listar libros por dinero escrito y genero
@@ -24,6 +26,7 @@ MENU
 """)
 
         self.get_menu_answer()
+
 
     def get_menu_answer(self):
         """
